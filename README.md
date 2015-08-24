@@ -1,10 +1,12 @@
 # Traducción Magento al Español (TU)
 ### Magento Translation to Spanish
 
+*EN DESARROLLO*<br>
+Para poder identificar los archivos ya modificados, han sido marcados con un commit llamado "Cambio a TU"
+
 Traduccion de Magento en Español 100% compatible con la version 1.9.1.0 
 
-Magento translation to Spanish 100% compatible with version 1.9.1.0
+Locale es_MX
 
-Traducción a español mexicano, aunque no cambia mucho al de España o Latinoamérica.
-
-Esta versión es en persona "Tú"
+Esta versión es en persona "Tú" para uso en tiendas con un tono de comunicación más personal.<br>
+Este esfuerzo llevará un tiempo en completarse, agradecemos contribuciones.
