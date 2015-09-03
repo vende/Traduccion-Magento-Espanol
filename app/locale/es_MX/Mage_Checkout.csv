@@ -1,363 +1,363 @@
-"%s was added to your shopping cart.","%s was added to your shopping cart."
-"%s was updated in your shopping cart.","%s was updated in your shopping cart."
-"(Excl. Tax)","(Excl. Tax)"
-"(Incl. Tax)","(Incl. Tax)"
-"* Required Fields","* Required Fields"
-"Add New Address","Add New Address"
-"Add New Condition","Add New Condition"
-"Add coupon code for shopping cart","Add coupon code for shopping cart"
-"Add gift messages to shopping cart","Add gift messages to shopping cart"
-"Add product to shopping cart","Add product to shopping cart"
-"Add product(s) to shopping cart","Add product(s) to shopping cart"
-"Add to Cart","Add to Cart"
-"Add to Compare","Add to Compare"
-"Add to Wishlist","Add to Wishlist"
-"Additional Product Info","Additional Product Info"
-"Address","Address"
-"Address %s of %s","Address %s of %s"
-"After Adding a Product Redirect to Shopping Cart","After Adding a Product Redirect to Shopping Cart"
-"Allow Guest Checkout","Allow Guest Checkout"
-"Already registered?","Already registered?"
-"An error occurred in the process of payment","An error occurred in the process of payment"
-"An error occurred while deleting this condition.","An error occurred while deleting this condition."
-"An error occurred while saving this condition.","An error occurred while saving this condition."
-"Apply","Apply"
-"Apply Coupon","Apply Coupon"
-"Are you sure you want to leave this page? You will need to go through the checkout steps again.","Are you sure you want to leave this page? You will need to go through the checkout steps again."
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?"
-"Back","Back"
-"Back to Billing Information","Back to Billing Information"
-"Back to Select Addresses","Back to Select Addresses"
-"Back to Shipping Information","Back to Shipping Information"
-"Back to Shopping Cart","Back to Shopping Cart"
-"Based on your selection, you may be interested in the following items:","Based on your selection, you may be interested in the following items:"
-"Billing Address","Billing Address"
-"Billing Information","Billing Information"
-"Billing Information - %s","Billing Information - %s"
-"Can not remove the item.","Can not remove the item."
-"Can not save item.","Can not save item."
-"Cancel","Cancel"
-"Cancel Coupon","Cancel Coupon"
-"Cannot add item to the shopping cart.","Cannot add item to the shopping cart."
-"Cannot add the item to shopping cart","Cannot add the item to shopping cart"
-"Cannot add the item to shopping cart.","Cannot add the item to shopping cart."
-"Cannot apply the coupon code.","Cannot apply the coupon code."
-"Cannot configure product.","Cannot configure product."
-"Cannot open the overview page","Cannot open the overview page"
-"Cannot process the item.","Cannot process the item."
-"Cannot remove the item.","Cannot remove the item."
-"Cannot update shopping cart.","Cannot update shopping cart."
-"Cannot update the item.","Cannot update the item."
-"Card Verification Number Visual Reference","Card Verification Number Visual Reference"
-"Cart","Cart"
-"Cart Product API","Cart Product API"
-"Cart Subtotal:","Cart Subtotal:"
-"Change","Change"
-"Change Billing Address","Change Billing Address"
-"Checkbox Text","Checkbox Text"
-"Checkout","Checkout"
-"Checkout Conditions","Checkout Conditions"
-"Checkout Forms Extra","Checkout Forms Extra"
-"Checkout Method","Checkout Method"
-"Checkout Options","Checkout Options"
-"Checkout Progress Wrapper","Checkout Progress Wrapper"
-"Checkout Section","Checkout Section"
-"Checkout Terms and Conditions","Checkout Terms and Conditions"
-"Checkout as Guest","Checkout as Guest"
-"Checkout as a Guest or Register","Checkout as a Guest or Register"
-"Checkout with Multiple Addresses","Checkout with Multiple Addresses"
-"City","City"
-"Clear Shopping Cart","Clear Shopping Cart"
-"Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation."
-"Click <a href=""%s"">here</a> to continue shopping.","Click <a href=""%s"">here</a> to continue shopping."
-"Close","Close"
-"Company","Company"
-"Condition Name","Condition Name"
-"Configurable Product Image","Configurable Product Image"
-"Configure Cart Item","Configure Cart Item"
-"Confirm Password","Confirm Password"
-"Content","Content"
-"Content Height","Content Height"
-"Content Height (css)","Content Height (css)"
-"Continue","Continue"
-"Continue Shopping","Continue Shopping"
-"Continue to Billing Information","Continue to Billing Information"
-"Continue to Review Your Order","Continue to Review Your Order"
-"Continue to Shipping Information","Continue to Shipping Information"
-"Country","Country"
-"Coupon code ""%s"" is not valid.","Coupon code ""%s"" is not valid."
-"Coupon code ""%s"" was applied.","Coupon code ""%s"" was applied."
-"Coupon code was canceled.","Coupon code was canceled."
-"Create Billing Address","Create Billing Address"
-"Create Shipping Address","Create Shipping Address"
-"Create an order from shopping cart","Create an order from shopping cart"
-"Create shopping cart","Create shopping cart"
-"Customer Address is not valid.","Customer Address is not valid."
-"Customer Information","Customer Information"
-"Customer's information","Customer's information"
-"Data saving problem","Data saving problem"
-"Default Billing","Default Billing"
-"Default Shipping","Default Shipping"
-"Delete Condition","Delete Condition"
-"Details","Details"
-"Disabled","Disabled"
-"Discount Codes","Discount Codes"
-"Display Cart Summary","Display Cart Summary"
-"Display Shopping Cart Sidebar","Display Shopping Cart Sidebar"
-"Display item quantities","Display item quantities"
-"Display number of items in cart","Display number of items in cart"
-"Display number of items in wishlist","Display number of items in wishlist"
-"Easy access to your order history and status","Easy access to your order history and status"
-"Edit","Edit"
-"Edit Address","Edit Address"
-"Edit Billing Address","Edit Billing Address"
-"Edit Condition","Edit Condition"
-"Edit Items","Edit Items"
-"Edit Shipping Address","Edit Shipping Address"
-"Edit Terms and Conditions","Edit Terms and Conditions"
-"Edit Your Cart","Edit Your Cart"
-"Edit item","Edit item"
-"Edit item parameters","Edit item parameters"
-"Email Address","Email Address"
-"Empty Cart","Empty Cart"
-"Empty Shopping Cart Content Before","Empty Shopping Cart Content Before"
-"Enable Onepage Checkout","Enable Onepage Checkout"
-"Enable Terms and Conditions","Enable Terms and Conditions"
-"Enabled","Enabled"
-"Enter a New Address","Enter a New Address"
-"Enter your coupon code if you have one.","Enter your coupon code if you have one."
-"Enter your destination to get a shipping estimate.","Enter your destination to get a shipping estimate."
-"Estimate","Estimate"
-"Estimate Shipping and Tax","Estimate Shipping and Tax"
-"Excl. Tax","Excl. Tax"
-"Fast and easy check out","Fast and easy check out"
-"Fax","Fax"
-"Forgot an Item?","Forgot an Item?"
-"Forgot your password?","Forgot your password?"
-"Get a Quote","Get a Quote"
-"Get list of available payment methods","Get list of available payment methods"
-"Get list of available shipping methods","Get list of available shipping methods"
-"Get list of products in shopping cart","Get list of products in shopping cart"
-"Get terms and conditions","Get terms and conditions"
-"Get total prices for shopping cart","Get total prices for shopping cart"
-"Gift Message","Gift Message"
-"Grand Total:","Grand Total:"
-"Grouped Product Image","Grouped Product Image"
-"HTML","HTML"
-"ID","ID"
-"Incl. Tax","Incl. Tax"
-"Invalid checkout type.","Invalid checkout type."
-"Invalid data.","Invalid data."
-"Invalid email address ""%s""","Invalid email address ""%s"""
-"Invalid method: %s","Invalid method: %s"
-"Invalid shipping method.","Invalid shipping method."
-"Item not found or already ordered","Item not found or already ordered"
-"Item was removed successfully.","Item was removed successfully."
-"Item was updated successfully.","Item was updated successfully."
-"Items","Items"
-"Items After","Items After"
-"Items Before","Items Before"
-"Load customer quote error","Load customer quote error"
-"Loading next step...","Loading next step..."
-"Login","Login"
-"Login/Registration Before","Login/Registration Before"
-"Manage Terms and Conditions","Manage Terms and Conditions"
-"Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)"
-"Maximum qty allowed for Shipping to multiple addresses is %s","Maximum qty allowed for Shipping to multiple addresses is %s"
-"Mini-cart promotion block","Mini-cart promotion block"
-"Minimum order amount is %s","Minimum order amount is %s"
-"Move","Move"
-"Move to Wishlist","Move to Wishlist"
-"Move to wishlist","Move to wishlist"
-"Multishipping Checkout","Multishipping Checkout"
-"Multishipping Checkout Address (Any) Form","Multishipping Checkout Address (Any) Form"
-"Multishipping Checkout Billing Address Creation","Multishipping Checkout Billing Address Creation"
-"Multishipping Checkout Billing Address Edit Form","Multishipping Checkout Billing Address Edit Form"
-"Multishipping Checkout Billing Address Selection","Multishipping Checkout Billing Address Selection"
-"Multishipping Checkout Billing Information Step","Multishipping Checkout Billing Information Step"
-"Multishipping Checkout Customer Address Edit Form","Multishipping Checkout Customer Address Edit Form"
-"Multishipping Checkout Overview","Multishipping Checkout Overview"
-"Multishipping Checkout Shipping Address Creation","Multishipping Checkout Shipping Address Creation"
-"Multishipping Checkout Shipping Address Edit Form","Multishipping Checkout Shipping Address Edit Form"
-"Multishipping Checkout Shipping Address Selection","Multishipping Checkout Shipping Address Selection"
-"Multishipping Checkout Shipping Information Step","Multishipping Checkout Shipping Information Step"
-"Multishipping Checkout Success","Multishipping Checkout Success"
-"My Cart","My Cart"
-"My Cart (%s item)","My Cart (%s item)"
-"My Cart (%s items)","My Cart (%s items)"
-"My Cart Link","My Cart Link"
-"New Address","New Address"
-"New Condition","New Condition"
-"New Terms and Conditions","New Terms and Conditions"
-"No Payment Methods","No Payment Methods"
-"ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER","ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER"
-"One Page Checkout","One Page Checkout"
-"One Page Checkout Failure","One Page Checkout Failure"
-"One Page Checkout Overview","One Page Checkout Overview"
-"One Page Checkout Success","One Page Checkout Success"
-"One item of products do not have identifier or sku","One item of products do not have identifier or sku"
-"One item of products is not belong any of quote item","One item of products is not belong any of quote item"
-"Order #","Order #"
-"Order Review","Order Review"
-"Order Success","Order Success"
-"Order place error.","Order place error."
-"Other Items in Your Order","Other Items in Your Order"
-"Overview Items After","Overview Items After"
-"Password","Password"
-"Payment Failed Email Reciever","Payment Failed Email Reciever"
-"Payment Failed Email Sender","Payment Failed Email Sender"
-"Payment Failed Emails","Payment Failed Emails"
-"Payment Failed Template","Payment Failed Template"
-"Payment Information","Payment Information"
-"Payment Method","Payment Method"
-"Payment Methods After","Payment Methods After"
-"Payment Methods After Checkout Button","Payment Methods After Checkout Button"
-"Payment Methods Before","Payment Methods Before"
-"Payment Methods Before Checkout Button","Payment Methods Before Checkout Button"
-"Payment method information","Payment method information"
-"Payment method is not defined","Payment method is not defined"
-"Payment methods in shopping cart","Payment methods in shopping cart"
+%s was added to your shopping cart.,%s fue añadido exitosamente a tu carrito de compra.
+%s was updated in your shopping cart.,%s se actualizó en tu carrito de compra.
+(Excl. Tax),(Excl. Imp)
+(Incl. Tax),(Incl. Imp)
+* Required Fields,* Campos requeridos
+Add New Address,Agregar nueva dirección
+Add New Condition,Agregar nueva condición
+Add coupon code for shopping cart,Agregar cupón para el carrito de compra
+Add gift messages to shopping cart,Add gift messages to shopping cart
+Add product to shopping cart,Agregar producto al carrito de compra
+Add product(s) to shopping cart,Agregar producto(s) al carrito de compra
+Add to Cart,Agregar a carrito
+Add to Compare,Agregar a comparar
+Add to Wishlist,Agregar a lista de deseos
+Additional Product Info,Información adicional de producto
+Address,Dirección
+Address %s of %s,Dirección %s de %s
+After Adding a Product Redirect to Shopping Cart,Después de añadir un producto redireccionar al carrito de compra
+Allow Guest Checkout,Permitir comprar como invitado
+Already registered?,¿Ya estás registrado?
+An error occurred in the process of payment,Ha ocurrido un error en el proceso de pago.
+An error occurred while deleting this condition.,Ha ocurrido un error al intentar eliminar esta condición.
+An error occurred while saving this condition.,Ha ocurrido un error al intentar guardar esta condición.
+Apply,Aplicar
+Apply Coupon,Aplicar cupón
+Are you sure you want to leave this page? You will need to go through the checkout steps again.,¿Estás seguro de que quieres salir de esta página? Necesitarás realizar el proceso de compra nuevamente.
+Are you sure you would like to remove this item from the shopping cart?,¿Estás seguro que deseas eliminar este artículo de tu carrito de compra?
+Back,Volver
+Back to Billing Information,Volver a información de cobranza
+Back to Select Addresses,Volver a elección de dirección
+Back to Shipping Information,Volver a información de envío
+Back to Shopping Cart,Volver a carrito de compra
+"Based on your selection, you may be interested in the following items:","Basado en tu elección, puede que estés interesado en los siguientes artículos:"
+Billing Address,Dirección de cobranza
+Billing Information,Información de cobranza
+Billing Information - %s,Información de cobranza - %s
+Can not remove the item.,No se puede descartar este artículo
+Can not save item.,No se puede guardar el artículo
+Cancel,Cancelar
+Cancel Coupon,Cancelar cupón
+Cannot add item to the shopping cart.,No se puede añadir artículos al carrito de compra.
+Cannot add the item to shopping cart,No se puede añadir el artículo al carrito de compra.
+Cannot add the item to shopping cart.,No se puede añadir el artículo al carrito de compra.
+Cannot apply the coupon code.,No se puede aplicar el cupón.
+Cannot configure product.,No se puede configuar el producto.
+Cannot open the overview page,No se puede abrir la vista de la página
+Cannot process the item.,No se puede procesar el artículo.
+Cannot remove the item.,No se puede descartar el artículo.
+Cannot update shopping cart.,No se puede actualizar el carrito de compra.
+Cannot update the item.,No se puede actualizar el carrito.
+Card Verification Number Visual Reference,Referencia visual de número de verificación de tarjeta
+Cart,Carrito de compra
+Cart Product API,Cart Product API
+Cart Subtotal:,Subtotal de carrito:
+Change,Cambiar
+Change Billing Address,Cambiar dirección de cobranza
+Checkbox Text,Texto de casilla de verificación
+Checkout,Comprar
+Checkout Conditions,Condiciones para la compra
+Checkout Forms Extra,Formularios adicionales de compra
+Checkout Method,Métodos de compra
+Checkout Options,Opciones de compra
+Checkout Progress Wrapper,Progreso del proceso de compra
+Checkout Section,Sección de compra
+Checkout Terms and Conditions,Terminos y condiciones de la compra
+Checkout as Guest,Comprar como invitado
+Checkout as a Guest or Register,Comprar como invitado o registrarse
+Checkout with Multiple Addresses,Comprar con multiples direcciones
+City,Ciudad
+Clear Shopping Cart,Vacíar carrito de compra
+"Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","Da click <a href=""%s"" onclick=""this.target=\'_blank\'"">aquí</a> para imprimir una copia de tu orden de compra."
+"Click <a href=""%s"">here</a> to continue shopping.","Da click <a href=""%s"">aquí</a> para continuar comprando."
+Close,Cerrar
+Company,Empresa
+Condition Name,Nombre de la condición
+Configurable Product Image,Imagen de producto configurable
+Configure Cart Item,Configurar 
+Confirm Password,Confirmar contraseña
+Content,Contenido
+Content Height,Altura de contenido
+Content Height (css),Altura de contenido (css)
+Continue,Continuar comprando
+Continue Shopping,Continuar comprando
+Continue to Billing Information,Continuar con información de cobranza
+Continue to Review Your Order,Continuar con revisión de tu orden
+Continue to Shipping Information,Continuar con la información de envío
+Country,País
+"Coupon code ""%s"" is not valid.","Código de cupón ""%s"" no es valido."
+"Coupon code ""%s"" was applied.","Código de cupón ""%s"" fue aplicado."
+Coupon code was canceled.,El cupón fue cancelado
+Create Billing Address,Crear dirección de cobranza
+Create Shipping Address,Crear dirección de envío
+Create an order from shopping cart,Crear una orden desde el carrito de compra
+Create shopping cart,Crear carrito de compra
+Customer Address is not valid.,La dirección de usuario no es valida.
+Customer Information,Información de usuario.
+Customer's information,Información de usuario.
+Data saving problem,Problema con guardado de datos
+Default Billing,Cobranza estándar
+Default Shipping,Envío estándar
+Delete Condition,Borrar condición
+Details,Detalles
+Disabled,Desactivar
+Discount Codes,Codigos de descuento
+Display Cart Summary,Mostrar resumen de carrito
+Display Shopping Cart Sidebar,Mostrar barra lateral de carrito de compra
+Display item quantities,Mostrar cantidad de artículos
+Display number of items in cart,Mostrar número de artículos en el carrito
+Display number of items in wishlist,Mostrar número de artículos en la lista de deseos
+Easy access to your order history and status,Fácil acceso a tu estatus e historial de ordenes.
+Edit,Editar
+Edit Address,Editar dirección
+Edit Billing Address,Editar dirección de cobranza
+Edit Condition,Editar condición
+Edit Items,Editar artículos
+Edit Shipping Address,Editar dirección de envío
+Edit Terms and Conditions,Editar terminos y condiciones
+Edit Your Cart,Editar tu carrito
+Edit item,Editar artículo
+Edit item parameters,Editar parametros de artículo
+Email Address,Dirección de correo electrónico
+Empty Cart,Carrito vacío
+Empty Shopping Cart Content Before,Vaciar antes contenido de carrito de compra
+Enable Onepage Checkout,Habilitar proceso de compra en una página
+Enable Terms and Conditions,Habilitar terminos y condiciones
+Enabled,Habilitar
+Enter a New Address,Ingresar nueva dirección
+Enter your coupon code if you have one.,Ingresa tu cupón si cuentas con alguno.
+Enter your destination to get a shipping estimate.,Ingresa tu destino para obtener un estimado del costo de envío.
+Estimate,Estimar
+Estimate Shipping and Tax,Estimar envío e impuestos
+Excl. Tax,Excl. Imp
+Fast and easy check out,Proceso de compra fácil y rapido
+Fax,Fax
+Forgot an Item?,¿Se te olvida un artículo?
+Forgot your password?,¿Olvidaste tu contraseña?
+Get a Quote,Obtener una cotización
+Get list of available payment methods,Obtener una lista de metodos de pago disponibles
+Get list of available shipping methods,Obtener una lista de metodos de envío disponibles
+Get list of products in shopping cart,Obtener una lista de productos en el carrito de compras
+Get terms and conditions,Obtener terminos y condiciones
+Get total prices for shopping cart,Obtener total de precios para el carrito de compra
+Gift Message,Mensaje de regalo
+Grand Total:,Gran Total:
+Grouped Product Image,Imgan de producto agrupada
+HTML,HTML
+ID,ID
+Incl. Tax,Incl. Imp
+Invalid checkout type.,Tipo de compra invalida.
+Invalid data.,Datos invalidos.
+"Invalid email address ""%s""","Dirección de correo electrónico invalida ""%s"""
+Invalid method: %s,Método invalido: %s
+Invalid shipping method.,Método de envío invalido.
+Item not found or already ordered,Artículo no encontrado o ya fue ordenado.
+Item was removed successfully.,El artículo fue descartado con éxito.
+Item was updated successfully.,El artículo fue actualizado con éxito.
+Items,Artículos
+Items After,Artículos después
+Items Before,Artículos antes.
+Load customer quote error,Cargar error de cotización de cliente.
+Loading next step...,Cargando siguiente paso...
+Login,Ingresar nueva dirección
+Login/Registration Before,Ingresar/Registrarse antes
+Manage Terms and Conditions,Gestionar terminos y condiciones
+Maximum Display Recently Added Item(s),Cantidad máxima mostrada de artículos recientemente añadidos. 
+Maximum qty allowed for Shipping to multiple addresses is %s,La cantidad máxima permitida para envíos a multiples direcciones es %s
+Mini-cart promotion block,Bloque de promoción de mini-carrito
+Minimum order amount is %s,El monto mínimo del pedido es %s
+Move,Mover a Lista de deseos
+Move to Wishlist,Mover a Lista de deseos
+Move to wishlist,Mover a lista de deseos
+Multishipping Checkout,Envío multiple de compra.
+Multishipping Checkout Address (Any) Form,Formulario de dirección para envío multiple
+Multishipping Checkout Billing Address Creation,Crear dirección de cobranza para envío multiple de compra
+Multishipping Checkout Billing Address Edit Form,Formulario de edición de dirección de cobranza para envío multiple de compra
+Multishipping Checkout Billing Address Selection,Elegir dirección de cobranza de envío multiple de compra
+Multishipping Checkout Billing Information Step,Información de cobranza de envío multiple de compra.
+Multishipping Checkout Customer Address Edit Form,Formulario de edición de dirección de cliente para envio multiple de compra
+Multishipping Checkout Overview,Descripción de envío multiple de compra
+Multishipping Checkout Shipping Address Creation,Crear dirección para envío multiple de compra
+Multishipping Checkout Shipping Address Edit Form,Formulario de edición de dirección de envío multiple de compra
+Multishipping Checkout Shipping Address Selection,Elegir dirección de envío multiple de compra
+Multishipping Checkout Shipping Information Step,Información de paso de envío multiple de compra
+Multishipping Checkout Success,Envío multiple de compra exitoso. 
+My Cart,Mi carrito
+My Cart (%s item),Mi carrito (%s artículo)
+My Cart (%s items),Mi carrito (%s artículos)
+My Cart Link,Enlace a mi carrito
+New Address,Nueva dirección
+New Condition,Nueva condición.
+New Terms and Conditions,Nuevos terminos y condiciones
+No Payment Methods,No hay métodos de pago
+ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER,SE MOSTRARÁ EL TOTAL DEL PEDIDO ANTES DE QUE ENVIES LA CONFIRMACIÓN
+One Page Checkout,Proceso de compra de una página
+One Page Checkout Failure,Falló proceso de compra de una página
+One Page Checkout Overview,Revisión de compra de una página
+One Page Checkout Success,Compra éxitosa (One Page)
+One item of products do not have identifier or sku,Uno de los artículos no tiene SKU
+One item of products is not belong any of quote item,Uno de los artículos ya no pertenece a los artículos cotizados
+Order #,Pedido #
+Order Review,Revisión de pedido
+Order Success,Pedido exitoso
+Order place error.,Error al hacer pedido.
+Other Items in Your Order,Otros artículos en tu pedido
+Overview Items After,Revisión de artículos
+Password,Contraseña
+Payment Failed Email Reciever,Payment Failed Email Reciever
+Payment Failed Email Sender,Payment Failed Email Sender
+Payment Failed Emails,Payment Failed Emails
+Payment Failed Template,Payment Failed Template
+Payment Information,Información de pago
+Payment Method,Métodos de pago
+Payment Methods After,Payment Methods After
+Payment Methods After Checkout Button,Payment Methods After Checkout Button
+Payment Methods Before,Payment Methods Before
+Payment Methods Before Checkout Button,Payment Methods Before Checkout Button
+Payment method information,Payment method information
+Payment method is not defined,Payment method is not defined
+Payment methods in shopping cart,Payment methods in shopping cart
 "Payment profile # %s: ""%s"".","Payment profile # %s: ""%s""."
-"Place Order","Place Order"
-"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order."
-"Please agree to all Terms and Conditions before placing the orders.","Please agree to all Terms and Conditions before placing the orders."
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
-"Please check billing address information.","Please check billing address information."
-"Please check shipping address information.","Please check shipping address information."
-"Please check shipping addresses information.","Please check shipping addresses information."
-"Please choose to register or to checkout as a guest","Please choose to register or to checkout as a guest"
-"Please log in below:","Please log in below:"
-"Please select region, state or province","Please select region, state or province"
-"Please select shipping address for applicable items","Please select shipping address for applicable items"
-"Please select shipping methods for all addresses","Please select shipping methods for all addresses"
-"Please select valid payment method.","Please select valid payment method."
-"Please specify payment method.","Please specify payment method."
-"Please specify shipping method.","Please specify shipping method."
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses."
-"Price","Price"
-"Proceed to Checkout","Proceed to Checkout"
-"Product","Product"
-"Product Name","Product Name"
-"Products","Products"
-"Qty","Qty"
-"Qty:","Qty:"
-"Quantity","Quantity"
-"Quantity was recalculated from %d to %d","Quantity was recalculated from %d to %d"
-"Quote Lifetime (days)","Quote Lifetime (days)"
-"Quote item does not exist.","Quote item does not exist."
-"Quote item is not found.","Quote item is not found."
-"Recently added item(s)","Recently added item(s)"
-"Register","Register"
-"Register and save time!","Register and save time!"
-"Register to Create an Account","Register to Create an Account"
-"Register with us for future convenience:","Register with us for future convenience:"
-"Remove Item","Remove Item"
-"Remove This Item","Remove This Item"
-"Remove coupon code from shopping cart","Remove coupon code from shopping cart"
-"Remove item","Remove item"
-"Remove product from shopping cart","Remove product from shopping cart"
-"Remove product(s) from shopping cart","Remove product(s) from shopping cart"
-"Require Customer To Be Logged In To Checkout","Require Customer To Be Logged In To Checkout"
-"Retrieve information about shopping cart","Retrieve information about shopping cart"
-"Review Order","Review Order"
-"Review Order - %s","Review Order - %s"
-"SKU","SKU"
-"Sales","Sales"
-"Save Condition","Save Condition"
-"Save in address book","Save in address book"
-"See price before order confirmation.","See price before order confirmation."
-"Select Address","Select Address"
-"Select Addresses","Select Addresses"
-"Select Shipping Method","Select Shipping Method"
-"Select State/Province...","Select State/Province..."
-"Select a billing address from your address book or enter a new address.","Select a billing address from your address book or enter a new address."
-"Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address."
-"Send Payment Failed Email Copy Method","Send Payment Failed Email Copy Method"
-"Send Payment Failed Email Copy To","Send Payment Failed Email Copy To"
-"Send To","Send To"
-"Separate by "","".","Separate by "",""."
-"Set customer for shopping cart","Set customer for shopping cart"
-"Set customer's addresses in shopping cart","Set customer's addresses in shopping cart"
-"Set payment method","Set payment method"
-"Set shipping method","Set shipping method"
-"Ship to Multiple Addresses","Ship to Multiple Addresses"
-"Ship to different address","Ship to different address"
-"Ship to this address","Ship to this address"
-"Shipping Address","Shipping Address"
-"Shipping Information","Shipping Information"
-"Shipping Method","Shipping Method"
-"Shipping Methods","Shipping Methods"
-"Shipping To","Shipping To"
-"Shipping information","Shipping information"
-"Shipping method has not been selected yet","Shipping method has not been selected yet"
-"Shipping methods in shopping cart","Shipping methods in shopping cart"
-"Shipping selection is not applicable.","Shipping selection is not applicable."
-"Shopping Cart","Shopping Cart"
-"Shopping Cart Form Before","Shopping Cart Form Before"
-"Shopping Cart Items After","Shopping Cart Items After"
-"Shopping Cart Items Before","Shopping Cart Items Before"
-"Shopping Cart Sidebar","Shopping Cart Sidebar"
-"Shopping Cart Sidebar Extra Actions","Shopping Cart Sidebar Extra Actions"
-"Shopping Cart is Empty","Shopping Cart is Empty"
-"Shopping cart ability to set coupon code","Shopping cart ability to set coupon code"
-"Show Content as","Show Content as"
-"Some of the requested products are not available in the desired quantity.","Some of the requested products are not available in the desired quantity."
-"Some of the requested products are unavailable.","Some of the requested products are unavailable."
-"Some products quantities were recalculated because of quantity increment mismatch","Some products quantities were recalculated because of quantity increment mismatch"
-"Sorry, guest checkout is not enabled. Please try again or contact store owner.","Sorry, guest checkout is not enabled. Please try again or contact store owner."
-"Sorry, no quotes are available for this order at this time.","Sorry, no quotes are available for this order at this time."
-"State/Province","State/Province"
-"Status","Status"
-"Store View","Store View"
-"Street Address","Street Address"
-"Street Address %s","Street Address %s"
-"Submitting order information...","Submitting order information..."
-"Subtotal","Subtotal"
-"Subtotal must exceed minimum order amount","Subtotal must exceed minimum order amount"
-"Telephone","Telephone"
-"Terms and Conditions","Terms and Conditions"
-"Terms and Conditions Information","Terms and Conditions Information"
-"Terms and conditions","Terms and conditions"
-"Text","Text"
-"Thank you for your purchase!","Thank you for your purchase!"
-"The condition has been deleted","The condition has been deleted"
-"The condition has been saved.","The condition has been saved."
-"The onepage checkout is disabled.","The onepage checkout is disabled."
-"The product could not be found.","The product could not be found."
-"The product does not exist.","The product does not exist."
-"There are <a href=""%s"">%s items</a> in your cart.","There are <a href=""%s"">%s items</a> in your cart."
-"There is <a href=""%s"">1 item</a> in your cart.","There is <a href=""%s"">1 item</a> in your cart."
-"There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.","There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account."
-"There was an error processing your order. Please contact us or try again later.","There was an error processing your order. Please contact us or try again later."
-"This condition no longer exists.","This condition no longer exists."
-"Total","Total"
-"Total for this address","Total for this address"
-"Unable to set Payment Method.","Unable to set Payment Method."
-"Unit Price","Unit Price"
-"Update","Update"
-"Update Cart","Update Cart"
-"Update Qty &amp; Addresses","Update Qty &amp; Addresses"
-"Update Shopping Cart","Update Shopping Cart"
-"Update Total","Update Total"
-"Update product quantities in shopping cart","Update product quantities in shopping cart"
-"Update product(s) quantities in shopping cart","Update product(s) quantities in shopping cart"
-"Use Billing Address","Use Billing Address"
-"VAT Number","VAT Number"
-"View Shopping Cart","View Shopping Cart"
-"We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.","We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress."
-"What&#39;s this?","What&#39;s this?"
-"What's this?","What's this?"
-"You have no items in your shopping cart.","You have no items in your shopping cart."
-"You will receive an order confirmation email with details of your order and a link to track its progress.","You will receive an order confirmation email with details of your order and a link to track its progress."
-"Your Checkout Progress","Your Checkout Progress"
-"Your billing agreement # is: %s.","Your billing agreement # is: %s."
-"Your order # is: %s.","Your order # is: %s."
-"Your order cannot be completed at this time as there is no payment methods available for it.","Your order cannot be completed at this time as there is no payment methods available for it."
-"Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."
-"Your order has been received.","Your order has been received."
-"Your order number is ","Your order number is "
-"Your recurring payment profiles:","Your recurring payment profiles:"
-"Zip","Zip"
-"Zip/Postal Code","Zip/Postal Code"
-"ok","ok"
-"or","or"
+Place Order,Realizar pedido
+Please agree to all Terms and Conditions before placing the order.,Por favor confirma que estás de acuerdo con todos los Terminos y Condiciones antes de realizar tu pedido.
+Please agree to all Terms and Conditions before placing the orders.,Por favor confirma que estás de acuerdo con todos los Terminos y Condiciones antes de realizar tus pedidos.
+Please agree to all the terms and conditions before placing the order.,Por favor confirma que estás de acuerdo con todos los Terminos y Condiciones antes de realizar tu pedido.
+Please check billing address information.,Por favor revisa la información de la dirección de cobranza
+Please check shipping address information.,Por favor revisa la información de la dirección de envío
+Please check shipping addresses information.,Por favor revisa la información de las direcciones de envío
+Please choose to register or to checkout as a guest,Por favor elíge entre registrarte o comprar como invitado
+Please log in below:,Por favor ingresa abajo:
+"Please select region, state or province","Por favor elige una región, estado o provincia"
+Please select shipping address for applicable items,Por favor selecciona direcciones de envío para los artículos aplicables.
+Please select shipping methods for all addresses,Por favor especifíca métodos de envío para todas las direcciones.
+Please select valid payment method.,Por favor selecciona un método de pago valido.
+Please specify payment method.,Por favor especifíca método de pago.
+Please specify shipping method.,Por favor especifíca métodos de envío.
+Please specify shipping methods for all addresses.,Por favor especifíca métodos de envío para todas las direcciones.
+Price,Precio  
+Proceed to Checkout,Proceder a comprar
+Product,Productos
+Product Name,Nombre de productos
+Products,Productos
+Qty,Cant
+Qty:,Cant:
+Quantity,Cantidad
+Quantity was recalculated from %d to %d,La cantidad fue recalculada de %d a %d
+Quote Lifetime (days),Vigencia de la cotización (días)
+Quote item does not exist.,No existe la cotización del artículo.
+Quote item is not found.,No se encontró la cotización.
+Recently added item(s),Artículos recientemente añadidos.
+Register,Registrarse
+Register and save time!,Registrate y ahorra tiempo!
+Register to Create an Account,Registrate para crear una cuenta
+Register with us for future convenience:,Registrate para mayor comodidad en futuras operaciones: 
+Remove Item,Descartar artículo
+Remove This Item,Descartar este artículo
+Remove coupon code from shopping cart,Eliminar cupón del carrito de compras
+Remove item,Descartar artículo
+Remove product from shopping cart,Eliminar producto del carrito de compra
+Remove product(s) from shopping cart,Eliminar productos del carrito de compra
+Require Customer To Be Logged In To Checkout,Es necesario que el cliente haya ingresa para realizar la compra
+Retrieve information about shopping cart,Recuperar información de carrito de compra
+Review Order,Revisar orden
+Review Order - %s,Revisar orden - %s
+SKU,SKU
+Sales,Ventas
+Save Condition,Guardar condición
+Save in address book,Guardar en la libreta de direcciones
+See price before order confirmation.,Ver precio antes de confirmar el pedido.
+Select Address,Elegir dirección
+Select Addresses,Elegir direcciones
+Select Shipping Method,Elegir método de envío
+Select State/Province...,Elegir Estado/Provincia
+Select a billing address from your address book or enter a new address.,Elege una dirección de cobranza de tu libreta de direcciones o ingresa una nueva.
+Select a shipping address from your address book or enter a new address.,Elige una dirección de envío de tu libreta de direcciones o ingresa una nueva dirección. 
+Send Payment Failed Email Copy Method,Envíar una copia del correo de método del pago fallido
+Send Payment Failed Email Copy To,Envíar una copia del correo del pago fallido a
+Send To,Enviar a
+"Separate by "","".","Separado por "",""."
+Set customer for shopping cart,Establecer cliente para carrito de compra
+Set customer's addresses in shopping cart,Establecer direcciones de cliente en carrito de compra
+Set payment method,Establecer método de pago
+Set shipping method,Establecer método de envío
+Ship to Multiple Addresses,Enviar a multiples direcciones
+Ship to different address,Enviar a diferentes direcciones
+Ship to this address,Enviar a esta dirección
+Shipping Address,Dirección de envío
+Shipping Information,Información de envío
+Shipping Method,Método de envío
+Shipping Methods,Metodos de envío
+Shipping To,Enviar a
+Shipping information,Información de envío
+Shipping method has not been selected yet,Aún no has seleccionado un método de envío
+Shipping methods in shopping cart,Métodos de envío en carrito de compra.
+Shipping selection is not applicable.,Elección de envío no disponible.
+Shopping Cart,Carrito de compra
+Shopping Cart Form Before,Formulario anterior de carrito de compra
+Shopping Cart Items After,Artículos posteriores del carrito de compra
+Shopping Cart Items Before,Artículos anteriores del carrito de compra
+Shopping Cart Sidebar,Barra lateral del carrito de compra
+Shopping Cart Sidebar Extra Actions,Acciones extra de la barra lateral del carrito de compra
+Shopping Cart is Empty,El carrito de compras está vacío
+Shopping cart ability to set coupon code,Capacidad del carrito de compra para establecer un cupón
+Show Content as,Mostrar contenido como
+Some of the requested products are not available in the desired quantity.,No está disponible la cantidad requerida de algunos productos.
+Some of the requested products are unavailable.,Algunos de los productos requeridos no están disponibles.
+Some products quantities were recalculated because of quantity increment mismatch,Algunas cantidades de productos fueron calculados nuevamente debido a una variación de la cantidad incrementada.
+"Sorry, guest checkout is not enabled. Please try again or contact store owner.","Lo sentimos, no es posible comprar como invitado. Por favor intenta nuevamente o contacta al administradoe de la tienda."
+"Sorry, no quotes are available for this order at this time.","Lo sentimos, no hay cotizaciones disponibles para este pedido en este momento"
+State/Province,Estado/Provincia
+Status,Status
+Store View,Vista de tienda
+Street Address,Calle
+Street Address %s,Calle %s
+Submitting order information...,Enviando información de pedido..
+Subtotal,Subtotal
+Subtotal must exceed minimum order amount,El subtotal tiene que exceder el monto mínimo de pedido.
+Telephone,Teléfono
+Terms and Conditions,Terminos y condiciones
+Terms and Conditions Information,Información de terminos y condiciones
+Terms and conditions,Terminos y condiciones
+Text,Texto
+Thank you for your purchase!,Gracias por tu compra!
+The condition has been deleted,La condición ha sido borrada. 
+The condition has been saved.,La condición ha sido guardada.
+The onepage checkout is disabled.,El proceso de compra en una página ha sido deshabilitado
+The product could not be found.,El producto no pudo ser encontrado.
+The product does not exist.,El producto ya no existe. 
+"There are <a href=""%s"">%s items</a> in your cart.","Hay <a href=""%s"">%s artículos</a> en tu carrito."
+"There is <a href=""%s"">1 item</a> in your cart.","Hay <a href=""%s"">1 artículo</a>  en tu carrito."
+There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.,Ya hay un usuario registrado con esta dirección de correo electrónico. Por favor ingresa usando esta dirección de correo electrónico o ingresa un correo diferente para registrar tu cuenta.
+There was an error processing your order. Please contact us or try again later.,Ocurrió un error al procesar tu orden. Por favor contactanos o intentalo más tarde.
+This condition no longer exists.,Esta condición ya no existe.
+Total,Total
+Total for this address,Total para esta dirección
+Unable to set Payment Method.,No es posible establecer método de pago.
+Unit Price,Precio unitario
+Update,Actualizar
+Update Cart,Actualizar carrito de compra
+Update Qty &amp; Addresses,Actualizar Cantidad &amp; Direcciones
+Update Shopping Cart,Actualizar carrito de compra
+Update Total,Actualizar total
+Update product quantities in shopping cart,Actualizar cantidad de artículos en el carrito de compra
+Update product(s) quantities in shopping cart,Actualizar cantidad de artículos en el carrito de compra
+Use Billing Address,Usar dirección de cobranza
+VAT Number,Número VAT
+View Shopping Cart,Ver carrito de compra
+We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.,Estamos procesando tu pedido y pronto recibirás un correo electrónico con los detalles. Una vez que hayamos enviado tu pedido recibirás otro correo electrónico con un enlace para darle seguimiento.
+What&#39;s this?,¿Qué es esto?
+What's this?,¿Qué es esto?
+You have no items in your shopping cart.,No tienes artículos en tu carrito de compras.
+You will receive an order confirmation email with details of your order and a link to track its progress.,Recibirás un correo electrónico de confirmación con los detalles de tu pedido y un enlace para darle seguimiento.
+Your Checkout Progress,Tu progreso en el proceso de compra
+Your billing agreement # is: %s.,Tu acuerdo de cobranza # es: %s.
+Your order # is: %s.,Tu pedido # es: %s.
+Your order cannot be completed at this time as there is no payment methods available for it.,Tu pedido no puede ser completado en este momento debido a que no hay metodos de pago disponibles.
+Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.,Tu pedido no puede ser completada en este momenteo debido a que no hay métodos de envío disponible. Por favor haz los cambios necesarios en tu dirección de envío.
+Your order has been received.,Tu orden ha sido recibida. 
+Your order number is ,Tu numero de pedido es
+Your recurring payment profiles:,Tus perfiles de pago recurrentes:
+Zip,C.P.
+Zip/Postal Code,Código Postal
+ok,ok
+or,or
