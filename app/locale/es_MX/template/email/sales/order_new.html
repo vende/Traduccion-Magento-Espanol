@@ -27,20 +27,21 @@
             <table cellpadding="0" cellspacing="0" border="0">
                 <tr>
                     <td class="email-heading">
-                        <h1>Thank you for your order from {{var store.getFrontendName()}}.</h1>
-                        <p>Once your package ships we will send an email with a link to track your order. Your order summary is below. Thank you again for your business.</p>
+                        <h1>Gracias por comprar en {{var store.getFrontendName()}}.</h1>
+                        <p>Una vez enviado tu paquete, recibirás un correo con la información de rastreo. Puedes ver el resumen de tu pedido a continuación.</p>
                     </td>
                     <td class="store-info">
-                        <h4>Order Questions?</h4>
+                        <h4>¿Dudas de tu pedido?</h4>
                         <p>
                             {{depend store_phone}}
-                            <b>Call Us:</b>
-                            <a href="tel:{{var phone}}">{{var store_phone}}</a><br>
+                            <b>Call Us:</b-->
+                            <a href="tel:{{var phone}}">{{var store_phone}}</a><br-->
                             {{/depend}}
                             {{depend store_hours}}
                             <span class="no-link">{{var store_hours}}</span><br>
-                            {{/depend}}
+                            {{/depend}} 
                             {{depend store_email}}
+                            <b>Escríbenos</b>
                             <b>Email:</b> <a href="mailto:{{var store_email}}">{{var store_email}}</a>
                             {{/depend}}
                         </p>
@@ -51,8 +52,8 @@
     </tr>
     <tr>
         <td class="order-details">
-            <h3>Your order <span class="no-link">#{{var order.increment_id}}</span></h3>
-            <p>Placed on {{var order.getCreatedAtFormated('long')}}</p>
+            <h3>Tu pedido<span class="no-link">#{{var order.increment_id}}</span></h3>
+            <p>Creado el {{var order.getCreatedAtFormated('long')}}</p>
         </td>
     </tr>
     <tr class="order-information">
@@ -68,12 +69,12 @@
             <table cellpadding="0" cellspacing="0" border="0">
                 <tr>
                     <td class="address-details">
-                        <h6>Bill to:</h6>
+                        <h6>Cobro:</h6>
                         <p><span class="no-link">{{var order.getBillingAddress().format('html')}}</span></p>
                     </td>
                     {{depend order.getIsNotVirtual()}}
                     <td class="address-details">
-                        <h6>Ship to:</h6>
+                        <h6>Envío:</h6>
                         <p><span class="no-link">{{var order.getShippingAddress().format('html')}}</span></p>
                     </td>
                     {{/depend}}
@@ -81,12 +82,12 @@
                 <tr>
                     {{depend order.getIsNotVirtual()}}
                     <td class="method-info">
-                        <h6>Shipping method:</h6>
+                        <h6>Método de Envío:</h6>
                         <p>{{var order.shipping_description}}</p>
                     </td>
                     {{/depend}}
                     <td class="method-info">
-                        <h6>Payment method:</h6>
+                        <h6>Método de Pago:</h6>
                         {{var payment_html}}
                     </td>
                 </tr>
