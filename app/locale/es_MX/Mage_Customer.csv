@@ -1,468 +1,468 @@
-"'%value%' appears to be a DNS hostname but cannot extract TLD part","'%value%' appears to be a DNS hostname but cannot extract TLD part"
-"'%value%' appears to be a DNS hostname but cannot match TLD against known list","'%value%' appears to be a DNS hostname but cannot match TLD against known list"
-"'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'","'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'"
-"'%value%' appears to be a DNS hostname but contains a dash in an invalid position","'%value%' appears to be a DNS hostname but contains a dash in an invalid position"
-"'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded","'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded"
-"'%value%' appears to be a local network name but local network names are not allowed","'%value%' appears to be a local network name but local network names are not allowed"
-"'%value%' appears to be an IP address, but IP addresses are not allowed","'%value%' appears to be an IP address, but IP addresses are not allowed"
-"'%value%' does not appear to be a valid local network name","'%value%' does not appear to be a valid local network name"
-"* Required Fields","* Campo Obligatorio"
-"ALL GROUPS","ALL GROUPS"
-"Account Dashboard","Resumen de Cuenta"
-"Account Information","Información de Cuenta"
-"Account Sharing Options","Opciones de Compartir Cuenta"
+%value%' appears to be a DNS hostname but cannot extract TLD part,"%value%' parece ser un nombre de host DNS, pero no se puede extraer la parte TLD "
+%value%' appears to be a DNS hostname but cannot match TLD against known list,%value%' parece ser un nombre de host DNS pero no coincide con la lista TLD conocida 
+%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%',%value%' parece ser un nombre de host DNS pero no coincide con el esquema de nombre de host para TLD '%tld%'
+%value%' appears to be a DNS hostname but contains a dash in an invalid position,"%value%' parece ser un nombre de host DNS, pero contiene un guión en una posición inválida"
+%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded,"%value%' parece ser un nombre de host DNS, pero la notación punycode proporcionada no puede ser decodificada"
+%value%' appears to be a local network name but local network names are not allowed,"%value%' parece ser un nombre de red local, pero los nombres de redes locales no están permitidos"
+"%value%' appears to be an IP address, but IP addresses are not allowed","%value%' parece ser una dirección IP, pero las direcciones IP no están permitidas"
+%value%' does not appear to be a valid local network name,%value%' does not appear to be a valid local network name
+* Required Fields,* Campo Obligatorio
+ALL GROUPS,TODOS LOS GRUPOS
+Account Dashboard,Resumen de Cuenta
+Account Information,Información de Cuenta
+Account Sharing Options,Opciones de Compartir Cuenta
 "Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%s"">click here</a>.","Es necesario confirmar la cuenta. Por favor checa tu correo para un link de confirmación. Para reenviar el link, <a href=""%s"">haz click aqui</a>."
-"Action","Acción"
-"Add New Address","Agregar Dirección"
-"Add New Customer","Agregar Cliente"
-"Add New Customer Group","Agregar Grupo de Clientes"
-"Added From","Agregado Desde"
-"Additional Address Entries","Entradas adicionales de dirección"
-"Address","Dirección"
-"Address Book","Libreta de Direcciones"
-"Address Books","Libretas de direcciones"
-"Address Information","Información de Dirección"
-"Address Templates","Plantillas de Dirección"
-"Addresses","Direcciones"
-"Admin","Admin"
-"All","Todo"
-"All Store Views","Todas las Vistas de Tienda"
-"All countries","Todos los países"
-"Always optional.","Opcional siempre."
-"Amount","Monto"
-"An error occurred while deleting the address.","Ocurrió un error al borrar la dirección."
-"An error occurred while retrieving the option value: %s.","Ocurrió un error al obtener el valor de opción: %s."
+Action,Acción
+Add New Address,Agregar Dirección
+Add New Customer,Agregar Cliente
+Add New Customer Group,Agregar Grupo de Clientes
+Added From,Agregado Desde
+Additional Address Entries,Entradas adicionales de dirección
+Address,Dirección
+Address Book,Libreta de Direcciones
+Address Books,Libretas de direcciones
+Address Information,Información de Dirección
+Address Templates,Plantillas de Dirección
+Addresses,Direcciones
+Admin,Admin
+All,Todo
+All Store Views,Todas las Vistas de Tienda
+All countries,Todos los países
+Always optional.,Opcional siempre.
+Amount,Monto
+An error occurred while deleting the address.,Ocurrió un error al borrar la dirección.
+An error occurred while retrieving the option value: %s.,Ocurrió un error al obtener el valor de opción: %s.
 "An error occurred while saving the collection, aborting. Error: %s","Ocurrió un error al guardar la colección, abortando. Error: %s"
 "An invalid option ID is specified for %s (%s), skipping the record.","ID de Opción inválida especificada para %s (%s), saltando registro."
-"Approved","Aprobado"
-"Are you sure that you want to remove this item?","¿Estas seguro que quiere eliminar este artículo?"
-"Are you sure you want to cancel adding of this address?","¿Estas seguro que quieres cancelar agregar esta dirección?"
-"Are you sure you want to delete this address?","¿Estas seguro que quieres borrar esta dirección?"
-"Are you sure?","Are you sure?"
-"Array of Entity collections is expected.","Array of Entity collections is expected."
-"Assign a Customer Group","Assign a Customer Group"
-"Average Sale","Average Sale"
-"Back","Back"
-"Back - link to the previously viewed page","Back - link to the previously viewed page"
-"Back to Login","Back to Login"
-"Bad request.","Bad request."
-"Based on the VAT ID, the customer would belong to the Customer Group %s.","Based on the VAT ID, the customer would belong to the Customer Group %s."
-"Bill to Name","Bill to Name"
-"Bought From","Bought From"
+Approved,Aprobado
+Are you sure that you want to remove this item?,¿Estas seguro que quieres eliminar este artículo?
+Are you sure you want to cancel adding of this address?,¿Estas seguro que quieres cancelar agregar esta dirección?
+Are you sure you want to delete this address?,¿Estas seguro que quieres borrar esta dirección?
+Are you sure?,¿Estas seguro?
+Array of Entity collections is expected.,Se espera una matríz de grupos de entidades.
+Assign a Customer Group,Asignar un grupo de clientes
+Average Sale,Venta Promedio
+Back,Volver
+Back - link to the previously viewed page,Volver - enlace a la página que estabas viendo
+Back to Login,Volver para iniciar sesión
+Bad request.,Solicitud incorrecta.
+"Based on the VAT ID, the customer would belong to the Customer Group %s.","Basadome en el ID VAT, el cliente podría pertenecer al Grupo de Clientes %s."
+Bill to Name,Cobrar a nombre de
+Bought From,Comprado de
 "By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","Al crear una cuenta podrás hacer tu compra de manera más rápida, así como consultar el estatus de tus pedidos entrando a tu cuenta."
-"CSV","CSV"
-"Cancel","Cancel"
-"Cannot save a new password.","Cannot save a new password."
-"Cannot save address.","Cannot save address."
-"Cannot save the customer.","Cannot save the customer."
-"Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.","Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged."
-"Change Account Password","Change Account Password"
-"Change Billing Address","Change Billing Address"
-"Change Password","Change Password"
-"Change Shipping Address","Change Shipping Address"
-"City","City"
-"Company","Company"
-"Config","Config"
-"Configure","Configure"
-"Confirm New Password","Confirm New Password"
-"Confirm Password","Confirm Password"
-"Confirmation Link Email","Confirmation Link Email"
-"Confirmed","Confirmed"
-"Contact Information","Contact Information"
-"Continue Shopping","Continue Shopping"
-"Country","Country"
-"Create","Create"
-"Create New Account Options","Create New Account Options"
-"Create New Customer Account","Create New Customer Account"
-"Create Order","Create Order"
-"Create an Account","Crear Cuenta"
-"Create customer","Create customer"
-"Create customer address","Create customer address"
-"Current Admin Password","Current Admin Password"
-"Current Password","Current Password"
-"Customer","Customer"
-"Customer API","Customer API"
-"Customer Account Edit Form","Customer Account Edit Form"
-"Customer Account Login Form","Customer Account Login Form"
-"Customer Account Logout Success","Customer Account Logout Success"
-"Customer Account Registration Form","Customer Account Registration Form"
-"Customer Addresses","Customer Addresses"
-"Customer Configuration","Customer Configuration"
-"Customer Forgot Password Form","Customer Forgot Password Form"
-"Customer Group","Customer Group"
-"Customer Groups","Customer Groups"
-"Customer Information","Customer Information"
-"Customer Login","Customer Login"
-"Customer My Account (All Pages)","Customer My Account (All Pages)"
-"Customer My Account Address Book","Customer My Account Address Book"
-"Customer My Account Address Edit Form","Customer My Account Address Edit Form"
-"Customer My Account Dashboard","Customer My Account Dashboard"
-"Customer Since","Customer Since"
-"Customer View","Customer View"
-"Customer collection expected.","Customer collection expected."
-"Customer email is required","Customer email is required"
-"Customer website ID must be specified when using the website scope","Customer website ID must be specified when using the website scope"
-"Customer will stay on the current page if ""No"" is selected.","Customer will stay on the current page if ""No"" is selected."
-"Customers","Customers"
-"Customers Only","Customers Only"
-"Customers Section","Customers Section"
-"DD","DD"
-"Date","Date"
-"Date Added","Date Added"
-"Date of Birth","Date of Birth"
-"Day","Day"
-"Days in Wishlist","Days in Wishlist"
-"Default Addresses","Default Addresses"
-"Default Billing Address","Default Billing Address"
-"Default Email Domain","Default Email Domain"
-"Default Group","Default Group"
-"Default Shipping Address","Default Shipping Address"
-"Default Value for Disable Automatic Group Changes Based on VAT ID","Default Value for Disable Automatic Group Changes Based on VAT ID"
-"Default Welcome Email","Default Welcome Email"
-"Delete","Delete"
-"Delete Address","Delete Address"
-"Delete Customer","Delete Customer"
-"Delete Customer Group","Delete Customer Group"
-"Delete customer","Delete customer"
-"Delete customer address","Delete customer address"
-"Deleted Stores","Deleted Stores"
-"Details","Details"
-"Disabled","Disabled"
-"Edit","Edit"
-"Edit Account Info","Edit Account Info"
-"Edit Account Information","Edit Account Information"
-"Edit Address","Edit Address"
-"Edit Address Entry","Edit Address Entry"
-"Edit Customer Group ""%s""","Edit Customer Group ""%s"""
-"Edit Customer Groups","Edit Customer Groups"
-"Edit Customer's Address","Edit Customer's Address"
-"Edit Group","Edit Group"
-"Edit Newsletters","Edit Newsletters"
-"Email","Email"
-"Email Address","Email Address"
-"Email Sender","Email Sender"
-"Email:","Email:"
-"Enable Automatic Assignment to Customer Group","Enable Automatic Assignment to Customer Group"
-"Entity collection is expected.","Entity collection is expected."
-"Excel XML","Excel XML"
-"Failed to confirm customer account.","Failed to confirm customer account."
-"Fax","Fax"
-"First Name","First Name"
-"Forgot Email Template","Forgot Email Template"
-"Forgot Password","Forgot Password"
-"Forgot Your Password","Forgot Your Password"
-"Forgot Your Password?","Forgot Your Password?"
-"Forgot and Remind Email Sender","Forgot and Remind Email Sender"
-"Form Fields Before","Form Fields Before"
-"From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.","From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information."
-"Gender","Sexo"
-"Gender is required.","Sexo es un campo obligatorio."
-"General Subscription","General Subscription"
-"Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID"
-"Global","Global"
-"Group","Group"
-"Group Information","Group Information"
-"Group Name","Group Name"
-"Group for Invalid VAT ID","Group for Invalid VAT ID"
-"Group for Valid VAT ID - Domestic","Group for Valid VAT ID - Domestic"
-"Group for Valid VAT ID - Intra-Union","Group for Valid VAT ID - Intra-Union"
-"Guest","Guest"
-"HTML","HTML"
+CSV,CSV
+Cancel,Cancelar
+Cannot save a new password.,No se puede guardar una nueva contraseña.
+Cannot save address.,No se puede guardar la dirección.
+Cannot save the customer.,No se puede guardar el cliente.
+Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.,Las cuentas de clientes no se pueden compartir de manera global debido a que algunas están registradas con el mismo correo electrónico en varios sitios web y no se pueden combinar.
+Change Account Password,Cambiar Contraseña de Cuenta 
+Change Billing Address,Cambiar dirección de facturación.
+Change Password,Cambiar la contraseña
+Change Shipping Address,Cambiar la dirección de envío
+City,Ciudad
+Company,Compañía
+Config,Configuración
+Configure,Configurar
+Confirm New Password,Confirmar nueva contraseña
+Confirm Password,Confirmar contraseña
+Confirmation Link Email,Confirmación de Enlace de Correo Electrónico
+Confirmed,Confirmado
+Contact Information,Información de contacto
+Continue Shopping,Seguir comprando
+Country,País
+Create,Crear 
+Create New Account Options,Opciones para Crear una Nueva Cuenta 
+Create New Customer Account,Crear una nueva cuenta de cliente
+Create Order,Crear Pedido
+Create an Account,Crear Cuenta
+Create customer,Crear Cliente
+Create customer address,Crear dirección del cliente
+Current Admin Password,Contraseña Actual de Administración
+Current Password,Contraseña Actual
+Customer,Cliente
+Customer API,API de Cliente
+Customer Account Edit Form,Formulario para Editar Cuenta de Cliente 
+Customer Account Login Form,Formulario de Inicio de Sesión con Cuenta de Cliente
+Customer Account Logout Success,La cuenta del cliente cerró su sesión de manera correcta. 
+Customer Account Registration Form,Formulario de Registro para Cuenta de Cliente
+Customer Addresses,Direcciones de los clientes
+Customer Configuration,Configuración de cliente
+Customer Forgot Password Form,Formulario para Olvido de Contraseña del Cliente
+Customer Group,Grupo de Clientes
+Customer Groups,Grupos de clientes
+Customer Information,Informacion de cliente
+Customer Login,Inicio de Sesión para cliente
+Customer My Account (All Pages),Cliente Mi Cuenta (Todas las páginas)
+Customer My Account Address Book,"Libreta de direcciones en ""Mi Cuenta"" de Cliente"
+Customer My Account Address Edit Form,"Formulario de Edición de Direcciones en ""Mi cuenta"" de Cliente"
+Customer My Account Dashboard,Panel de Administración para Mi cuenta de cliente
+Customer Since,Cliete desde
+Customer View,Vista de Cliente
+Customer collection expected.,Se espera grupo de cliente. 
+Customer email is required,Es necesario el correo electrónico del cliente
+Customer website ID must be specified when using the website scope,El ID de la página web del cliente debe especificarse cuando se usa el alcance de página web
+"Customer will stay on the current page if ""No"" is selected.","Los clientes van permanecer en la página actual si seleccionaste ""NO""."
+Customers,Clientes
+Customers Only,Sólo Clientes
+Customers Section,Sección de Clientes
+DD,DD
+Date,Fecha
+Date Added,Fecha Añadida
+Date of Birth,Fecha de Nacimiento
+Day,Día
+Days in Wishlist,Días en la Lista de Deseos
+Default Addresses,Direcciones predeterminadas
+Default Billing Address,Direccion de facturación predeterminada.
+Default Email Domain,Dominio predeterminado de correo electrónico.
+Default Group,Grupo predeterminado.
+Default Shipping Address,Dirección de entrega predeterminada
+Default Value for Disable Automatic Group Changes Based on VAT ID,Valor predeterminado para deshabilitar automáticamente cambios en grupos basado en ID VAT 
+Default Welcome Email,Correo Electrónico de bienvenido predeterminado.
+Delete,Borrar
+Delete Address,Borrar Dirección
+Delete Customer,Borrar Cliente
+Delete Customer Group,Eliminar grupo de cliente.
+Delete customer,Eliminar cliente
+Delete customer address,Eliminar dirección del cliente
+Deleted Stores,Tiendas eliminadas
+Details,Detalles
+Disabled,Deshabilitado
+Edit,Editar
+Edit Account Info,Editar Información de la cuenta
+Edit Account Information,Editar información de la cuenta
+Edit Address,Editar dirección
+Edit Address Entry,Editar Dirección ingresada
+"Edit Customer Group ""%s""","Editar Grupo de Clientes ""%s"""
+Edit Customer Groups,Editar Grupo de Clientes
+Edit Customer's Address,Editar dirección del Cliente
+Edit Group,Editar Grupo
+Edit Newsletters,Editar Boletines
+Email,Correo Electrónico
+Email Address,Dirección de correo electrónico
+Email Sender,Remitente de correo electrónico.
+Email:,Correo Electrónico:
+Enable Automatic Assignment to Customer Group,Activar la asignación automática de Grupo de Clientes
+Entity collection is expected.,Se espera el conjunto de entidades.
+Excel XML,Excel XML
+Failed to confirm customer account.,No se ha podido confirmar la cuenta de cliente.
+Fax,Fax
+First Name,Primer Nombre
+Forgot Email Template,Plantilla de olvido de contraseña
+Forgot Password,Olvido de contraseña
+Forgot Your Password,Olvidaste tu contraseña
+Forgot Your Password?,¿Olvidaste tu contraseña?
+Forgot and Remind Email Sender,Olvidar y recordar correo electrónico del remitente
+Form Fields Before,Campos del formulario primero
+From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,"Desde tu panel ""Mi Cuenta"" puedes ver un resumen de la activida reciente de tu cuenta y también actualizar tu información. Selecciona un enlace para ver o editar."
+Gender,Sexo
+Gender is required.,Sexo es un campo obligatorio.
+General Subscription,Suscripción general
+Generate Human-Friendly Customer ID,Generar un ID de cliente fácil de recordar
+Global,Global
+Group,Grupo
+Group Information,Información del Grupo
+Group Name,Nombre del grupo
+Group for Invalid VAT ID,Grupo para ID de IVA inválido
+Group for Valid VAT ID - Domestic,Grupo para ID de IVA válido - Doméstico
+Group for Valid VAT ID - Intra-Union,Groupo para ID de IVA válido - Intra-Union
+Guest,Invitado
+HTML,HTML
 "Hello, %s!","Hola, %s!"
-"ID","ID"
-"IP Address","IP Address"
-"If you believe this is an error, please contact us at %s","If you believe this is an error, please contact us at %s"
-"If you have an account with us, please log in.","Si ya tienes cuenta, por favor haz login."
-"Invalid attribute option specified for attribute %s (%s), skipping the record.","Invalid attribute option specified for attribute %s (%s), skipping the record."
-"Invalid attribute set specified, skipping the record.","Invalid attribute set specified, skipping the record."
-"Invalid billing address for (%s)","Invalid billing address for (%s)"
-"Invalid current password","Invalid current password"
-"Invalid customer data","Invalid customer data"
-"Invalid email address ""%s"".","Invalid email address ""%s""."
-"Invalid email address.","Invalid email address."
-"Invalid login or password.","Invalid login or password."
-"Invalid password reset token.","Invalid password reset token."
-"Invalid shipping address for (%s)","Invalid shipping address for (%s)"
-"Invalid store specified, skipping the record.","Invalid store specified, skipping the record."
-"Invalid website, skipping the record, line: %s","Invalid website, skipping the record, line: %s"
-"Last Activity","Last Activity"
-"Last Date Subscribed","Last Date Subscribed"
-"Last Date Unsubscribed","Last Date Unsubscribed"
-"Last Name","Last Name"
-"Last URL","Last URL"
-"Leave empty for default (15 minutes).","Leave empty for default (15 minutes)."
-"Leave empty for default (2). Valid range: 1-4","Leave empty for default (2). Valid range: 1-4"
-"Lifetime Sales","Lifetime Sales"
-"Log In","Log In"
-"Log Out","Log Out"
-"Login","Login"
-"Login Information","Login Information"
-"Login Options","Login Options"
-"Login and password are required.","Login and password are required."
-"Login or Create an Account","Entra a tu Cuenta"
-"MM","MM"
-"Manage Addresses","Manage Addresses"
-"Manage Customers","Manage Customers"
-"Maximum length must be less then %s symbols","Maximum length must be less then %s symbols"
-"Missing email, skipping the record, line: %s","Missing email, skipping the record, line: %s"
-"Missing email, skipping the record.","Missing email, skipping the record."
-"Missing first name, skipping the record, line: %s","Missing first name, skipping the record, line: %s"
-"Missing firstname, skipping the record.","Missing firstname, skipping the record."
-"Missing last name, skipping the record, line: %s","Missing last name, skipping the record, line: %s"
-"Missing lastname, skipping the record.","Missing lastname, skipping the record."
-"Missing website, skipping the record, line: %s","Missing website, skipping the record, line: %s"
-"Month","Month"
-"My Account","My Account"
-"My Account Wrapper","My Account Wrapper"
-"My Dashboard","My Dashboard"
-"My Orders","My Orders"
-"Name","Name"
-"Name and Address Options","Name and Address Options"
-"Never","Never"
-"New Address","New Address"
-"New Address Entry","New Address Entry"
-"New Customer","New Customer"
-"New Customer Address","New Customer Address"
-"New Customer Group","New Customer Group"
-"New Customer Groups","New Customer Groups"
-"New Customers","Clientes Nuevos"
-"New Group","New Group"
-"New Password","New Password"
-"New account","New account"
-"New account confirmation key","New account confirmation key"
-"New account confirmed","New account confirmed"
-"New password field cannot be empty.","New password field cannot be empty."
-"Newsletter","Newsletter"
-"Newsletter Finish","Newsletter Finish"
-"Newsletter Information","Newsletter Information"
-"Newsletter Received","Newsletter Received"
-"Newsletter Start","Newsletter Start"
-"Newsletter Subscription","Newsletter Subscription"
-"Newsletters","Newsletters"
-"No Items Found","No Items Found"
-"No Newsletter Found","No Newsletter Found"
-"No customer collections found","No customer collections found"
-"No item specified.","No item specified."
-"Not Sent","Not Sent"
-"Not confirmed, can login","Not confirmed, can login"
-"Not confirmed, cannot login","Not confirmed, cannot login"
-"Number of Lines in a Street Address ","Number of Lines in a Street Address "
-"Offline","Offline"
-"Online","Online"
-"Online Customers","Online Customers"
-"Online Customers Options","Online Customers Options"
-"Online Minutes Interval","Online Minutes Interval"
-"Order #","Order #"
-"Order Total","Order Total"
-"Orders","Orders"
-"PDF","PDF"
-"Password","Password"
-"Password Management","Password Management"
-"Password Options","Password Options"
-"Password forgotten","Password forgotten"
-"Password:","Password:"
-"Paused","Paused"
-"Pending","Pending"
-"Per Website","Per Website"
-"Personal Information","Personal Information"
-"Please enter a number 1 or greater in this field.","Please enter a number 1 or greater in this field."
-"Please enter a valid date between %s and %s at %s.","Please enter a valid date between %s and %s at %s."
-"Please enter a valid date equal to or greater than %s at %s.","Please enter a valid date equal to or greater than %s at %s."
-"Please enter a valid date less than or equal to %s at %s.","Please enter a valid date less than or equal to %s at %s."
-"Please enter the city.","Please enter the city."
-"Please enter the country.","Please enter the country."
-"Please enter the first name.","Please enter the first name."
-"Please enter the last name.","Please enter the last name."
-"Please enter the state/province.","Please enter the state/province."
-"Please enter the street.","Please enter the street."
-"Please enter the telephone number.","Please enter the telephone number."
-"Please enter the zip/postal code.","Please enter the zip/postal code."
-"Please enter your email address below. You will receive a link to reset your password.","Please enter your email address below. You will receive a link to reset your password."
-"Please enter your email below and we\'ll send you confirmation link for it.","Please enter your email below and we\'ll send you confirmation link for it."
-"Please enter your email.","Please enter your email."
-"Please make sure your passwords match.","Please make sure your passwords match."
-"Please select a website which contains store view","Please select a website which contains store view"
-"Please select region, state or province","Please select region, state or province"
+ID,ID
+IP Address,IP Dirección
+"If you believe this is an error, please contact us at %s","Si te parece que es un error, por favor contáctanos en %s"
+"If you have an account with us, please log in.","Si ya tienes cuenta, por favor inicia sesión."
+"Invalid attribute option specified for attribute %s (%s), skipping the record.","La opción de atributo especificada no es válida para el atributo %s (%s), el registro será omitido."
+"Invalid attribute set specified, skipping the record.","Conjunto de atributos especificado inválido, registro omitido."
+Invalid billing address for (%s),Dirección de facturación inválida para (%s)
+Invalid current password,La contraseña actual es inválida
+Invalid customer data,Los datos del cliente no son válidos
+"Invalid email address ""%s"".","Dirección de correo electrónico no válida: ""%s""."
+Invalid email address.,La dirección de correo electrónico no es válida.
+Invalid login or password.,Contraseña o usuario inválido.
+Invalid password reset token.,Token de restablecimiento de contraseña inválido 
+Invalid shipping address for (%s),Dirección de envío no válida para (%s)
+"Invalid store specified, skipping the record.","La tienda especificada es inválida, registro omitido."
+"Invalid website, skipping the record, line: %s","La página web no es válida, registro omitido en la línea: %s"
+Last Activity,Última actividad
+Last Date Subscribed,Última fecha de Suscripción
+Last Date Unsubscribed,Última fecha de Desuscripción
+Last Name,Apellido(s)
+Last URL,Última URL
+Leave empty for default (15 minutes).,Dejar en blanco para el valor predeterminado (15 minutos).
+Leave empty for default (2). Valid range: 1-4,Dejar en blanco para el valor predeterminado (2). Rango válido: 1-4
+Lifetime Sales,Acumulado de todas las ventas
+Log In,Iniciar Sesión
+Log Out,Cerrar Sesión
+Login,Ingresar
+Login Information,Informacion de acceso
+Login Options,Optiones de acceso
+Login and password are required.,Se requiere tu usuario y contraseña.
+Login or Create an Account,Entra a tu Cuenta
+MM,MM
+Manage Addresses,Administrar Direcciones
+Manage Customers,Administrar Clientes
+Maximum length must be less then %s symbols,La longitud máxima debe ser menor a %s símbolos
+"Missing email, skipping the record, line: %s",Se omite registro de la línea %s por falta de correo electrónico.
+"Missing email, skipping the record.",Se omite registro por falta de correo electrónico.
+"Missing first name, skipping the record, line: %s",Se omite registro de la línea %s por falta de nombre(s).
+"Missing firstname, skipping the record.",Se omite registro por falta de nombre(s).
+"Missing last name, skipping the record, line: %s",Se omite registro de la línea %s por falta de apellído(s).
+"Missing lastname, skipping the record.",Se omite registro por falta de apellído(s).
+"Missing website, skipping the record, line: %s",Se omite registro porque falta la página web.
+Month,Mes
+My Account,Mi Cuenta
+My Account Wrapper,Contenedor de Mi Cuenta
+My Dashboard,Mi Panel de Administración
+My Orders,Mis Pedidos
+Name,Nombre
+Name and Address Options,Opciones de nombre y dirección 
+Never,Nunca
+New Address,Nueva dirección
+New Address Entry,Nueva ingreso de dirección
+New Customer,Nuevo cliente
+New Customer Address,Nueva dirección de cliente
+New Customer Group,Nuevo Grupo de Clientes
+New Customer Groups,Nuevos Grupos de clientes
+New Customers,Clientes Nuevos
+New Group,Grupo nuevo
+New Password,Nueva contraseña
+New account,Nueva cuenta
+New account confirmation key,Nueva clave de confirmación de cuenta
+New account confirmed,Nueva cuenta confirmada
+New password field cannot be empty.,El nuevo campo de contraseña no puede estar vacío.
+Newsletter,Boletín
+Newsletter Finish,Finalizar Boletín 
+Newsletter Information,Información de Boletín
+Newsletter Received,Boletín Recibido
+Newsletter Start,Inicio de Boletín 
+Newsletter Subscription,Suscripción a Boletín
+Newsletters,Boletines
+No Items Found,Artículos no encontrados
+No Newsletter Found,No se encontraron boletines
+No customer collections found,No se encontraron conjuntos de clientes
+No item specified.,Ningún elemento especificado.
+Not Sent,No enviado
+"Not confirmed, can login","No confirmado, puedes iniciar sesión"
+"Not confirmed, cannot login","No confirmado, no puedes iniciar sesión"
+Number of Lines in a Street Address ,Número de líneas en una calle 
+Offline,Desconectado
+Online,En línea
+Online Customers,Clientes en línea
+Online Customers Options,Opciones de los clientes en línea
+Online Minutes Interval,Intervalo de minutos en línea
+Order #,Pedido #
+Order Total,Pedido Total 
+Orders,Pedidos
+PDF,PDF
+Password,Contraseña
+Password Management,Gestión de contraseñas
+Password Options,Opciones de contraseña
+Password forgotten,Contraseña olvidada
+Password:,Contraseña:
+Paused,En pausa
+Pending,En espera
+Per Website,Poer Sitio Web
+Personal Information,Información personal
+Please enter a number 1 or greater in this field.,"Por favor, introduce un número 1 o mayor en este campo."
+Please enter a valid date between %s and %s at %s.,"Por favor, introduce una fecha válida entre el %s y el %s en %s."
+Please enter a valid date equal to or greater than %s at %s.,"Por favor, introduce una fecha válida igual o mayor a %s en %s."
+Please enter a valid date less than or equal to %s at %s.,"Por favor, introduce una fecha válida menor o igual a %s en %s."
+Please enter the city.,"Por favor, introduce la ciudad."
+Please enter the country.,"Por favor, introduce el país."
+Please enter the first name.,"Por favor, introduce el nombre."
+Please enter the last name.,"Por favor, introduce el apellido."
+Please enter the state/province.,"Por favor, introduce el estado/provincia."
+Please enter the street.,"Por favor, introduce la calle."
+Please enter the telephone number.,"Por favor, introduce el número de teléfono."
+Please enter the zip/postal code.,"Por favor, introduce el código postal."
+Please enter your email address below. You will receive a link to reset your password.,Introduce tu dirección de correo electrónico a continuación. Vas a recibir un enlace para restablecer tu contraseña.
+Please enter your email below and we\'ll send you confirmation link for it.,Por favor ingresa tu correo electrónico a continuación y te vamos a envíar un enlace de confirmación.
+Please enter your email.,"Por favor, ingresa tu correo electrónico."
+Please make sure your passwords match.,"Por favor, asegúrate de que las contraseñas son iguales."
+Please select a website which contains store view,"Por favor, elige una página web que contenga vista de tienda"
+"Please select region, state or province","Por favor elige región, estado o provincia"
 "Please, check your email for confirmation key.","Please, check your email for confirmation key."
-"Prefix Dropdown Options","Prefix Dropdown Options"
-"Price","Price"
-"Product","Product"
-"Product ID","Product ID"
-"Product Name","Product Name"
-"Product Reviews","Product Reviews"
-"Product Tags","Product Tags"
-"Purchase On","Purchase On"
-"Purchased On","Purchased On"
-"Qty","Qty"
-"Recent Orders","Recent Orders"
-"Records for %s store found.","Records for %s store found."
-"Recovery Link Expiration Period (days)","Recovery Link Expiration Period (days)"
-"Redirect Customer to Account Dashboard after Logging in","Redirect Customer to Account Dashboard after Logging in"
-"Refunded","Refunded"
-"Register","Register"
-"Registered Customers","Clientes Registrados"
-"Remind Email Template","Remind Email Template"
-"Remind Password","Remind Password"
-"Remove","Remove"
-"Require Emails Confirmation","Require Emails Confirmation"
-"Require admin user to change user password","Require admin user to change user password"
-"Reset a Password","Reset a Password"
-"Retrieve address data","Retrieve address data"
-"Retrieve address info","Retrieve address info"
-"Retrieve customer addresses","Retrieve customer addresses"
-"Retrieve customer data","Retrieve customer data"
-"Retrieve customer groups","Retrieve customer groups"
-"Retrieve customer info","Retrieve customer info"
-"Retrieve customers","Retrieve customers"
-"Retrieve your confirmation link here","Retrieve your confirmation link here"
-"Retrieve your password here","Retrieve your password here"
-"SKU","SKU"
-"Sales Statistics","Sales Statistics"
-"Save","Save"
-"Save Address","Save Address"
-"Save Customer","Save Customer"
-"Save Customer Group","Save Customer Group"
-"Save Password","Save Password"
-"Save and Continue Edit","Save and Continue Edit"
-"Saved %d record(s)","Saved %d record(s)"
-"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field."
-"Send Auto-Generated Password","Send Auto-Generated Password"
-"Send From","Send From"
-"Send Welcome Email","Send Welcome Email"
-"Send Welcome Email after Confirmation","Send Welcome Email after Confirmation"
-"Send confirmation link","Send confirmation link"
-"Sending","Sending"
-"Sent","Sent"
-"Session Start Time","Session Start Time"
-"Set as Default Billing Address","Set as Default Billing Address"
-"Set as Default Shipping Address","Set as Default Shipping Address"
-"Share Customer Accounts","Share Customer Accounts"
-"Shipped to First Name","Shipped to First Name"
-"Shipped to Last Name","Shipped to Last Name"
-"Shipped to Name","Shipped to Name"
-"Shopping Cart","Shopping Cart"
-"Shopping Cart - %d item(s)","Shopping Cart - %d item(s)"
-"Shopping Cart of %1$s - %2$d item(s)","Shopping Cart of %1$s - %2$d item(s)"
-"Show Date of Birth","Show Date of Birth"
-"Show Gender","Show Gender"
-"Show Middle Name (initial)","Show Middle Name (initial)"
-"Show Prefix","Show Prefix"
-"Show Suffix","Show Suffix"
-"Show Tax/VAT Number","Show Tax/VAT Number"
-"Show VAT Number on Frontend","Show VAT Number on Frontend"
-"Sign Up for Newsletter","Sign Up for Newsletter"
+Prefix Dropdown Options,Prefix Dropdown Options
+Price,Price
+Product,Product
+Product ID,Product ID
+Product Name,Product Name
+Product Reviews,Product Reviews
+Product Tags,Product Tags
+Purchase On,Purchase On
+Purchased On,Purchased On
+Qty,Qty
+Recent Orders,Recent Orders
+Records for %s store found.,Records for %s store found.
+Recovery Link Expiration Period (days),Recovery Link Expiration Period (days)
+Redirect Customer to Account Dashboard after Logging in,Redirect Customer to Account Dashboard after Logging in
+Refunded,Refunded
+Register,Register
+Registered Customers,Clientes Registrados
+Remind Email Template,Remind Email Template
+Remind Password,Remind Password
+Remove,Remove
+Require Emails Confirmation,Require Emails Confirmation
+Require admin user to change user password,Require admin user to change user password
+Reset a Password,Reset a Password
+Retrieve address data,Retrieve address data
+Retrieve address info,Retrieve address info
+Retrieve customer addresses,Retrieve customer addresses
+Retrieve customer data,Retrieve customer data
+Retrieve customer groups,Retrieve customer groups
+Retrieve customer info,Retrieve customer info
+Retrieve customers,Retrieve customers
+Retrieve your confirmation link here,Retrieve your confirmation link here
+Retrieve your password here,Retrieve your password here
+SKU,SKU
+Sales Statistics,Sales Statistics
+Save,Save
+Save Address,Save Address
+Save Customer,Save Customer
+Save Customer Group,Save Customer Group
+Save Password,Save Password
+Save and Continue Edit,Save and Continue Edit
+Saved %d record(s),Saved %d record(s)
+Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
+Send Auto-Generated Password,Send Auto-Generated Password
+Send From,Send From
+Send Welcome Email,Send Welcome Email
+Send Welcome Email after Confirmation,Send Welcome Email after Confirmation
+Send confirmation link,Send confirmation link
+Sending,Sending
+Sent,Sent
+Session Start Time,Session Start Time
+Set as Default Billing Address,Set as Default Billing Address
+Set as Default Shipping Address,Set as Default Shipping Address
+Share Customer Accounts,Share Customer Accounts
+Shipped to First Name,Shipped to First Name
+Shipped to Last Name,Shipped to Last Name
+Shipped to Name,Shipped to Name
+Shopping Cart,Shopping Cart
+Shopping Cart - %d item(s),Shopping Cart - %d item(s)
+Shopping Cart of %1$s - %2$d item(s),Shopping Cart of %1$s - %2$d item(s)
+Show Date of Birth,Show Date of Birth
+Show Gender,Show Gender
+Show Middle Name (initial),Show Middle Name (initial)
+Show Prefix,Show Prefix
+Show Suffix,Show Suffix
+Show Tax/VAT Number,Show Tax/VAT Number
+Show VAT Number on Frontend,Show VAT Number on Frontend
+Sign Up for Newsletter,Sign Up for Newsletter
 "Skipping import row, required field ""%s"" is not defined.","Skipping import row, required field ""%s"" is not defined."
 "Skipping import row, website ""%s"" field does not exist.","Skipping import row, website ""%s"" field does not exist."
-"State/Province","State/Province"
-"Status","Status"
-"Store","Store"
-"Store View","Store View"
-"Street Address","Street Address"
-"Street Address %s","Street Address %s"
-"Subject","Subject"
-"Submit","Submit"
-"Subscribe to Newsletter","Subscribe to Newsletter"
-"Subscribed to Newsletter?","Subscribed to Newsletter?"
-"Suffix Dropdown Options","Suffix Dropdown Options"
-"Tag Name","Tag Name"
-"Tax Calculation Based On","Tax Calculation Based On"
-"Tax Class","Tax Class"
-"Tax/VAT number","Tax/VAT number"
-"Telephone","Telephone"
-"Text","Text"
-"Text One Line","Text One Line"
-"Thank you for registering with %s.","Thank you for registering with %s."
-"The Date of Birth is required.","The Date of Birth is required."
-"The TAX/VAT number is required.","The TAX/VAT number is required."
-"The VAT ID entered (%s) is not a valid VAT ID.","The VAT ID entered (%s) is not a valid VAT ID."
-"The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.","The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s."
-"The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used."
-"The account information has been saved.","The account information has been saved."
-"The address does not belong to this customer.","The address does not belong to this customer."
-"The address has been deleted.","The address has been deleted."
-"The address has been saved.","The address has been saved."
+State/Province,State/Province
+Status,Status
+Store,Store
+Store View,Store View
+Street Address,Street Address
+Street Address %s,Street Address %s
+Subject,Subject
+Submit,Submit
+Subscribe to Newsletter,Subscribe to Newsletter
+Subscribed to Newsletter?,Subscribed to Newsletter?
+Suffix Dropdown Options,Suffix Dropdown Options
+Tag Name,Tag Name
+Tax Calculation Based On,Tax Calculation Based On
+Tax Class,Tax Class
+Tax/VAT number,Tax/VAT number
+Telephone,Telephone
+Text,Text
+Text One Line,Text One Line
+Thank you for registering with %s.,Thank you for registering with %s.
+The Date of Birth is required.,The Date of Birth is required.
+The TAX/VAT number is required.,The TAX/VAT number is required.
+The VAT ID entered (%s) is not a valid VAT ID.,The VAT ID entered (%s) is not a valid VAT ID.
+The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.,The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.
+The VAT ID is valid. The current Customer Group will be used.,The VAT ID is valid. The current Customer Group will be used.
+The account information has been saved.,The account information has been saved.
+The address does not belong to this customer.,The address does not belong to this customer.
+The address has been deleted.,The address has been deleted.
+The address has been saved.,The address has been saved.
 "The customer ID and email did not match, skipping the record, line: %s","The customer ID and email did not match, skipping the record, line: %s"
-"The customer does not have default billing address.","The customer does not have default billing address."
+The customer does not have default billing address.,The customer does not have default billing address.
 "The customer email (%s) already exists, skipping the record, line: %s","The customer email (%s) already exists, skipping the record, line: %s"
-"The customer group has been deleted.","The customer group has been deleted."
-"The customer group has been saved.","The customer group has been saved."
-"The customer is currently assigned to Customer Group %s.","The customer is currently assigned to Customer Group %s."
-"The first name cannot be empty.","The first name cannot be empty."
+The customer group has been deleted.,The customer group has been deleted.
+The customer group has been saved.,The customer group has been saved.
+The customer is currently assigned to Customer Group %s.,The customer is currently assigned to Customer Group %s.
+The first name cannot be empty.,The first name cannot be empty.
 "The group ""%s"" cannot be deleted","The group ""%s"" cannot be deleted"
-"The last name cannot be empty.","The last name cannot be empty."
-"The minimum password length is %s","The minimum password length is %s"
-"The password cannot be empty.","The password cannot be empty."
-"The password must have at least 6 characters. Leading or trailing spaces will be ignored.","The password must have at least 6 characters. Leading or trailing spaces will be ignored."
+The last name cannot be empty.,The last name cannot be empty.
+The minimum password length is %s,The minimum password length is %s
+The password cannot be empty.,The password cannot be empty.
+The password must have at least 6 characters. Leading or trailing spaces will be ignored.,The password must have at least 6 characters. Leading or trailing spaces will be ignored.
 "The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)"
 "The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)"
-"There are no items in customer's wishlist at the moment","There are no items in customer's wishlist at the moment"
-"There are no items in customer\'s shopping cart at the moment","There are no items in customer\'s shopping cart at the moment"
+There are no items in customer's wishlist at the moment,There are no items in customer's wishlist at the moment
+There are no items in customer\'s shopping cart at the moment,There are no items in customer\'s shopping cart at the moment
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account."
-"There was an error validating the VAT ID.","There was an error validating the VAT ID."
-"There was an error validating the VAT ID. The customer would belong to Customer Group %s.","There was an error validating the VAT ID. The customer would belong to Customer Group %s."
-"This account is not confirmed.","This account is not confirmed."
-"This customer email already exists","This customer email already exists"
-"This customer has no saved addresses.","This customer has no saved addresses."
-"This email does not require confirmation.","This email does not require confirmation."
+There was an error validating the VAT ID.,There was an error validating the VAT ID.
+There was an error validating the VAT ID. The customer would belong to Customer Group %s.,There was an error validating the VAT ID. The customer would belong to Customer Group %s.
+This account is not confirmed.,This account is not confirmed.
+This customer email already exists,This customer email already exists
+This customer has no saved addresses.,This customer has no saved addresses.
+This email does not require confirmation.,This email does not require confirmation.
 "This email will be sent instead of default welcome email, after account confirmation.","This email will be sent instead of default welcome email, after account confirmation."
-"This is My Default %s Address","This is My Default %s Address"
-"To Cart","To Cart"
+This is My Default %s Address,This is My Default %s Address
+To Cart,To Cart
 "To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","To show VAT number on frontend, set Show VAT Number on Frontend option to Yes."
-"Total","Total"
-"Type","Type"
-"Unknown","Unknown"
-"Unsubscribe from Newsletter","Unsubscribe from Newsletter"
-"Update","Update"
-"Update customer address data","Update customer address data"
-"Update customer data","Update customer data"
-"Use as My Default %s Address","Use as My Default %s Address"
-"Use as My Default Billing Address","Use as My Default Billing Address"
-"Use as My Default Shipping Address","Use as My Default Shipping Address"
-"Use as my default billing address","Use as my default billing address"
-"Use as my default shipping address","Use as my default shipping address"
-"VAT Number","VAT Number"
-"VAT Request Date","VAT Request Date"
-"VAT Request Identifier","VAT Request Identifier"
-"Validate VAT Number","Validate VAT Number"
-"Validate on Each Transaction","Validate on Each Transaction"
-"Validation Error Group","Validation Error Group"
-"View","View"
-"View Order","View Order"
-"Visitor","Visitor"
-"Visitors Only","Visitors Only"
-"Website","Website"
-"Welcome Email","Welcome Email"
-"Wishlist","Wishlist"
-"Wishlist - %d item(s)","Wishlist - %d item(s)"
-"Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?"
-"Wrong confirmation key.","Wrong confirmation key."
-"Wrong customer account specified.","Wrong customer account specified."
-"Wrong email.","Wrong email."
-"Wrong transactional account email type","Wrong transactional account email type"
-"YYYY","YYYY"
-"Year","Year"
-"You are currently not subscribed to any newsletter.","You are currently not subscribed to any newsletter."
-"You are currently not subscribed to our newsletter.","You are currently not subscribed to our newsletter."
-"You are currently subscribed to 'General Subscription'.","You are currently subscribed to 'General Subscription'."
-"You are currently subscribed to our newsletter.","You are currently subscribed to our newsletter."
-"You are now logged out","You are now logged out"
-"You have logged out and will be redirected to our homepage in 5 seconds.","You have logged out and will be redirected to our homepage in 5 seconds."
-"You have no additional address entries in your address book.","You have no additional address entries in your address book."
-"You have no additional entries in your address book.","You have no additional entries in your address book."
-"You have no default billing address in your address book.","You have no default billing address in your address book."
-"You have no default entries in your address book.","You have no default entries in your address book."
-"You have no default shipping address in your address book.","You have no default shipping address in your address book."
-"You have not set a default billing address.","You have not set a default billing address."
-"You have not set a default shipping address.","You have not set a default shipping address."
-"You have placed no orders yet.","You have placed no orders yet."
-"You have placed no products yet.","You have placed no products yet."
-"You will be charged tax.","You will be charged tax."
-"You will not be charged tax.","You will not be charged tax."
-"Your Tax ID cannot be validated.","Your Tax ID cannot be validated."
-"Your VAT ID was successfully validated.","Your VAT ID was successfully validated."
-"Your account balance is: %s","Your account balance is: %s"
-"ZIP","ZIP"
-"ZIP/Post Code","ZIP/Post Code"
-"Zip/Postal Code","Zip/Postal Code"
-"n/a","n/a"
-"or","or"
+Total,Total
+Type,Tipo
+Unknown,Unknown
+Unsubscribe from Newsletter,Unsubscribe from Newsletter
+Update,Actualizar
+Update customer address data,Update customer address data
+Update customer data,Update customer data
+Use as My Default %s Address,Use as My Default %s Address
+Use as My Default Billing Address,Use as My Default Billing Address
+Use as My Default Shipping Address,Use as My Default Shipping Address
+Use as my default billing address,Use as my default billing address
+Use as my default shipping address,Use as my default shipping address
+VAT Number,VAT Number
+VAT Request Date,VAT Request Date
+VAT Request Identifier,VAT Request Identifier
+Validate VAT Number,Validate VAT Number
+Validate on Each Transaction,Validate on Each Transaction
+Validation Error Group,Validation Error Group
+View,View
+View Order,View Order
+Visitor,Visitor
+Visitors Only,Visitors Only
+Website,Website
+Welcome Email,Welcome Email
+Wishlist,Wishlist
+Wishlist - %d item(s),Wishlist - %d item(s)
+Would you like to change the Customer Group for this order?,Would you like to change the Customer Group for this order?
+Wrong confirmation key.,Wrong confirmation key.
+Wrong customer account specified.,Wrong customer account specified.
+Wrong email.,Wrong email.
+Wrong transactional account email type,Wrong transactional account email type
+YYYY,YYYY
+Year,Year
+You are currently not subscribed to any newsletter.,You are currently not subscribed to any newsletter.
+You are currently not subscribed to our newsletter.,You are currently not subscribed to our newsletter.
+You are currently subscribed to 'General Subscription'.,You are currently subscribed to 'General Subscription'.
+You are currently subscribed to our newsletter.,You are currently subscribed to our newsletter.
+You are now logged out,You are now logged out
+You have logged out and will be redirected to our homepage in 5 seconds.,You have logged out and will be redirected to our homepage in 5 seconds.
+You have no additional address entries in your address book.,You have no additional address entries in your address book.
+You have no additional entries in your address book.,You have no additional entries in your address book.
+You have no default billing address in your address book.,You have no default billing address in your address book.
+You have no default entries in your address book.,You have no default entries in your address book.
+You have no default shipping address in your address book.,You have no default shipping address in your address book.
+You have not set a default billing address.,You have not set a default billing address.
+You have not set a default shipping address.,You have not set a default shipping address.
+You have placed no orders yet.,You have placed no orders yet.
+You have placed no products yet.,You have placed no products yet.
+You will be charged tax.,You will be charged tax.
+You will not be charged tax.,You will not be charged tax.
+Your Tax ID cannot be validated.,Your Tax ID cannot be validated.
+Your VAT ID was successfully validated.,Your VAT ID was successfully validated.
+Your account balance is: %s,Your account balance is: %s
+ZIP,ZIP
+ZIP/Post Code,ZIP/Post Code
+Zip/Postal Code,Zip/Postal Code
+n/a,n/a
+or,or
