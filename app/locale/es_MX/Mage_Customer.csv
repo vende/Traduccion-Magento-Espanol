@@ -57,7 +57,7 @@ Cannot save address.,No se puede guardar la dirección.
 Cannot save the customer.,No se puede guardar el cliente.
 Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.,Las cuentas de clientes no se pueden compartir de manera global debido a que algunas están registradas con el mismo correo electrónico en varios sitios web y no se pueden combinar.
 Change Account Password,Cambiar Contraseña de Cuenta 
-Change Billing Address,Cambiar dirección de facturación.
+Change Billing Address,Cambiar dirección de cobranza.
 Change Password,Cambiar la contraseña
 Change Shipping Address,Cambiar la dirección de envío
 City,Ciudad
@@ -113,7 +113,7 @@ Date of Birth,Fecha de Nacimiento
 Day,Día
 Days in Wishlist,Días en la Lista de Deseos
 Default Addresses,Direcciones predeterminadas
-Default Billing Address,Direccion de facturación predeterminada.
+Default Billing Address,Direccion de cobranza predeterminada.
 Default Email Domain,Dominio predeterminado de correo electrónico.
 Default Group,Grupo predeterminado.
 Default Shipping Address,Dirección de entrega predeterminada
@@ -175,7 +175,7 @@ IP Address,IP Dirección
 "If you have an account with us, please log in.","Si ya tienes cuenta, por favor inicia sesión."
 "Invalid attribute option specified for attribute %s (%s), skipping the record.","La opción de atributo especificada no es válida para el atributo %s (%s), el registro será omitido."
 "Invalid attribute set specified, skipping the record.","Conjunto de atributos especificado inválido, registro omitido."
-Invalid billing address for (%s),Dirección de facturación inválida para (%s)
+Invalid billing address for (%s),Dirección de cobranza inválida para (%s)
 Invalid current password,La contraseña actual es inválida
 Invalid customer data,Los datos del cliente no son válidos
 "Invalid email address ""%s"".","Dirección de correo electrónico no válida: ""%s""."
@@ -334,7 +334,7 @@ Send confirmation link,Enviar enlace de confirmación
 Sending,Enviando
 Sent,Enviado
 Session Start Time,Hora de inicio de Sesión
-Set as Default Billing Address,Establecer como dirección predeterminada de facturación
+Set as Default Billing Address,Establecer como dirección predeterminada de cobranza
 Set as Default Shipping Address,Establecer como dirección predeterminada de envío
 Share Customer Accounts,Compartir cuentas de clientes
 Shipped to First Name,Enviado a Nombre
@@ -382,7 +382,7 @@ The address does not belong to this customer.,La dirección no pertenece a este 
 The address has been deleted.,La dirección fue eliminada.
 The address has been saved.,Se guardó la dirección.
 "The customer ID and email did not match, skipping the record, line: %s","El ID de cliente y el correo electrónico no coinciden, se omitió el registro, línea: %s"
-The customer does not have default billing address.,El cliente no tiene dirección de facturación predeterminada.
+The customer does not have default billing address.,El cliente no tiene dirección de cobranza predeterminada.
 "The customer email (%s) already exists, skipping the record, line: %s","El correo electrónico del cliente (%s) ya existe, se omite el registro, línea: %s"
 The customer group has been deleted.,Se eliminó el grupo de clientes.
 The customer group has been saved.,Se guardó el grupo de clientes.
@@ -416,9 +416,9 @@ Update,Actualizar
 Update customer address data,Actualización de datos de direcciones de clientes
 Update customer data,Actualización de datos del cliente
 Use as My Default %s Address,Usar %s como mi dirección predeterminada
-Use as My Default Billing Address,Utilizar como mi dirección de facturación predeterminada
+Use as My Default Billing Address,Utilizar como mi dirección de cobranza predeterminada
 Use as My Default Shipping Address,Utilizar como mi dirección de envío predeterminada
-Use as my default billing address,Utilizar como mi dirección de facturación predeterminada
+Use as my default billing address,Utilizar como mi dirección de cobranza predeterminada
 Use as my default shipping address,Utilizar como mi dirección de envío predeterminada
 VAT Number,RFC
 VAT Request Date,Fecha de solicitud de IVA 
@@ -449,10 +449,10 @@ You are now logged out,Cerraste tu sesión
 You have logged out and will be redirected to our homepage in 5 seconds.,Cerraste tu sesión y serás redirigido a nuestra página de inicio en 5 segundos.
 You have no additional address entries in your address book.,No tienes direcciones adicionales registradas en tu libreta de direcciones.
 You have no additional entries in your address book.,No tienes registros adicionales en tu libreta de direcciones.
-You have no default billing address in your address book.,No tienes ninguna dirección de facturación predeterminada en tu libreta de direcciones.
+You have no default billing address in your address book.,No tienes ninguna dirección de cobranza predeterminada en tu libreta de direcciones.
 You have no default entries in your address book.,No tienes registros predeterminados en tu libreta de direcciones.
 You have no default shipping address in your address book.,No tienes ninguna dirección de envío predeterminada en tu libreta de direcciones.
-You have not set a default billing address.,No has configurado una dirección de facturación predeterminada.
+You have not set a default billing address.,No has configurado una dirección de cobranza predeterminada.
 You have not set a default shipping address.,No has establecido una dirección de envío predeterminada.
 You have placed no orders yet.,No has hecho ningún pedido todavía.
 You have placed no products yet.,No has solicitado ningún producto todavía.
