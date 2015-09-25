@@ -263,7 +263,7 @@ Password forgotten,Contraseña olvidada
 Password:,Contraseña:
 Paused,En pausa
 Pending,En espera
-Per Website,Poer Sitio Web
+Per Website,Por Sitio Web
 Personal Information,Información personal
 Please enter a number 1 or greater in this field.,"Por favor, introduce un número 1 o mayor en este campo."
 Please enter a valid date between %s and %s at %s.,"Por favor, introduce una fecha válida entre el %s y el %s en %s."
@@ -283,186 +283,186 @@ Please enter your email.,"Por favor, ingresa tu correo electrónico."
 Please make sure your passwords match.,"Por favor, asegúrate de que las contraseñas son iguales."
 Please select a website which contains store view,"Por favor, elige una página web que contenga vista de tienda"
 "Please select region, state or province","Por favor elige región, estado o provincia"
-"Please, check your email for confirmation key.","Please, check your email for confirmation key."
-Prefix Dropdown Options,Prefix Dropdown Options
-Price,Price
-Product,Product
-Product ID,Product ID
-Product Name,Product Name
-Product Reviews,Product Reviews
-Product Tags,Product Tags
-Purchase On,Purchase On
-Purchased On,Purchased On
-Qty,Qty
-Recent Orders,Recent Orders
-Records for %s store found.,Records for %s store found.
-Recovery Link Expiration Period (days),Recovery Link Expiration Period (days)
-Redirect Customer to Account Dashboard after Logging in,Redirect Customer to Account Dashboard after Logging in
-Refunded,Refunded
-Register,Register
+"Please, check your email for confirmation key.","Por favor, consultar tu correo electrónico para ver la clave de confirmación."
+Prefix Dropdown Options,Prefijo de opciones desplegables
+Price,Precio
+Product,Producto
+Product ID,ID de Product 
+Product Name,Nombre de producto
+Product Reviews,Opiniones del producto
+Product Tags,Etiquetas del producto
+Purchase On,Compra en
+Purchased On,Comprado en
+Qty,Cant
+Recent Orders,Órdenes recientes
+Records for %s store found.,Se encontraron registros de %s almacén(es) .
+Recovery Link Expiration Period (days),Período de Vencimiento de Enlace de Recuperación (días)
+Redirect Customer to Account Dashboard after Logging in,Después de iniciar sesión redirigir al cliente al panel de administración de su cuenta 
+Refunded,Reintegrado
+Register,Registro
 Registered Customers,Clientes Registrados
-Remind Email Template,Remind Email Template
-Remind Password,Remind Password
-Remove,Remove
-Require Emails Confirmation,Require Emails Confirmation
-Require admin user to change user password,Require admin user to change user password
-Reset a Password,Reset a Password
-Retrieve address data,Retrieve address data
-Retrieve address info,Retrieve address info
-Retrieve customer addresses,Retrieve customer addresses
-Retrieve customer data,Retrieve customer data
-Retrieve customer groups,Retrieve customer groups
-Retrieve customer info,Retrieve customer info
-Retrieve customers,Retrieve customers
-Retrieve your confirmation link here,Retrieve your confirmation link here
-Retrieve your password here,Retrieve your password here
+Remind Email Template,Recuerdar plantilla de correo electrónico
+Remind Password,Recuerdar contraseña
+Remove,Eliminar
+Require Emails Confirmation,Pedir correos electrónicos de confirmación
+Require admin user to change user password,Requerir usuario administrador para cambiar la contraseña de usuario
+Reset a Password,Restablecer contraseña
+Retrieve address data,Recuperar datos de direcciones
+Retrieve address info,Recuperar información de direcciones
+Retrieve customer addresses,Recuperar direcciones de los clientes
+Retrieve customer data,Recuperar datos de clientes
+Retrieve customer groups,Recuperar los grupos de clientes
+Retrieve customer info,Recuperar información del cliente
+Retrieve customers,Recuperar clientes
+Retrieve your confirmation link here,Recupera tu enlace de confirmación aquí
+Retrieve your password here,Recupera tu contraseña aquí
 SKU,SKU
-Sales Statistics,Sales Statistics
-Save,Save
-Save Address,Save Address
-Save Customer,Save Customer
-Save Customer Group,Save Customer Group
-Save Password,Save Password
-Save and Continue Edit,Save and Continue Edit
-Saved %d record(s),Saved %d record(s)
-Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.
-Send Auto-Generated Password,Send Auto-Generated Password
-Send From,Send From
-Send Welcome Email,Send Welcome Email
-Send Welcome Email after Confirmation,Send Welcome Email after Confirmation
-Send confirmation link,Send confirmation link
-Sending,Sending
-Sent,Sent
-Session Start Time,Session Start Time
-Set as Default Billing Address,Set as Default Billing Address
-Set as Default Shipping Address,Set as Default Shipping Address
-Share Customer Accounts,Share Customer Accounts
-Shipped to First Name,Shipped to First Name
-Shipped to Last Name,Shipped to Last Name
-Shipped to Name,Shipped to Name
-Shopping Cart,Shopping Cart
-Shopping Cart - %d item(s),Shopping Cart - %d item(s)
-Shopping Cart of %1$s - %2$d item(s),Shopping Cart of %1$s - %2$d item(s)
-Show Date of Birth,Show Date of Birth
-Show Gender,Show Gender
-Show Middle Name (initial),Show Middle Name (initial)
-Show Prefix,Show Prefix
-Show Suffix,Show Suffix
-Show Tax/VAT Number,Show Tax/VAT Number
-Show VAT Number on Frontend,Show VAT Number on Frontend
-Sign Up for Newsletter,Sign Up for Newsletter
-"Skipping import row, required field ""%s"" is not defined.","Skipping import row, required field ""%s"" is not defined."
-"Skipping import row, website ""%s"" field does not exist.","Skipping import row, website ""%s"" field does not exist."
-State/Province,State/Province
-Status,Status
-Store,Store
-Store View,Store View
-Street Address,Street Address
-Street Address %s,Street Address %s
-Subject,Subject
-Submit,Submit
-Subscribe to Newsletter,Subscribe to Newsletter
-Subscribed to Newsletter?,Subscribed to Newsletter?
+Sales Statistics,Estadísticas de ventas
+Save,Guardar
+Save Address,Guardar dirección
+Save Customer,Guardar cliente
+Save Customer Group,Guardar grupo de cliente
+Save Password,Guardar contraseña
+Save and Continue Edit,Guardar y seguir editando
+Saved %d record(s),Registro(s) Guardado(s) %d
+Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Valores separados por punto y coma (;) <br/> Pon punto y coma al principio para primera opción en blanco<br/> Deja en blanco para campo de texto abierto...
+Send Auto-Generated Password,Enviar contraseña Auto-generada
+Send From,Enviar Desde
+Send Welcome Email,Enviar Email de Bienvenida
+Send Welcome Email after Confirmation,Enviar correo electrónico de bienvenida después de la confirmación
+Send confirmation link,Enviar enlace de confirmación
+Sending,Enviando
+Sent,Enviado
+Session Start Time,Hora de inicio de Sesión
+Set as Default Billing Address,Establecer como dirección predeterminada de facturación
+Set as Default Shipping Address,Establecer como dirección predeterminada de envío
+Share Customer Accounts,Compartir cuentas de clientes
+Shipped to First Name,Enviado a Nombre
+Shipped to Last Name,Enviado a Apellido
+Shipped to Name,Enviado a Nombre
+Shopping Cart,Carrito de compras
+Shopping Cart - %d item(s),Carrito de compras - %d artículo(s)
+Shopping Cart of %1$s - %2$d item(s),Carrito de compras de %1$s - %2$d artículo(s)
+Show Date of Birth,Mostrar Fecha de Nacimiento
+Show Gender,Mostrar Género
+Show Middle Name (initial),Mostrar Segundo Nombre (inicial)
+Show Prefix,Mostrar Prefijo
+Show Suffix,Mostrar Sufijo
+Show Tax/VAT Number,Mostrar RFC
+Show VAT Number on Frontend,Mostrar RFC en Frontend
+Sign Up for Newsletter,Suscribirse al boletín
+"Skipping import row, required field ""%s"" is not defined.","Omitir importación de fila, el campo obligatorio ""% s"" no está definido."
+"Skipping import row, website ""%s"" field does not exist.","Omitir importación de fila, el sitio web ""% s"" no existe."
+State/Province,Estado/Provincia
+Status,Estado
+Store,Tienda
+Store View,Ver tienda
+Street Address,Calle
+Street Address %s,Calle %s
+Subject,Sujeto
+Submit,Enviar
+Subscribe to Newsletter,Suscríbete al boletín de noticias
+Subscribed to Newsletter?,¿Quieres suscríbirte al boletín de noticias?
 Suffix Dropdown Options,Suffix Dropdown Options
-Tag Name,Tag Name
-Tax Calculation Based On,Tax Calculation Based On
-Tax Class,Tax Class
-Tax/VAT number,Tax/VAT number
-Telephone,Telephone
-Text,Text
-Text One Line,Text One Line
-Thank you for registering with %s.,Thank you for registering with %s.
-The Date of Birth is required.,The Date of Birth is required.
-The TAX/VAT number is required.,The TAX/VAT number is required.
-The VAT ID entered (%s) is not a valid VAT ID.,The VAT ID entered (%s) is not a valid VAT ID.
-The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.,The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.
-The VAT ID is valid. The current Customer Group will be used.,The VAT ID is valid. The current Customer Group will be used.
-The account information has been saved.,The account information has been saved.
-The address does not belong to this customer.,The address does not belong to this customer.
-The address has been deleted.,The address has been deleted.
-The address has been saved.,The address has been saved.
-"The customer ID and email did not match, skipping the record, line: %s","The customer ID and email did not match, skipping the record, line: %s"
-The customer does not have default billing address.,The customer does not have default billing address.
-"The customer email (%s) already exists, skipping the record, line: %s","The customer email (%s) already exists, skipping the record, line: %s"
-The customer group has been deleted.,The customer group has been deleted.
-The customer group has been saved.,The customer group has been saved.
-The customer is currently assigned to Customer Group %s.,The customer is currently assigned to Customer Group %s.
-The first name cannot be empty.,The first name cannot be empty.
-"The group ""%s"" cannot be deleted","The group ""%s"" cannot be deleted"
-The last name cannot be empty.,The last name cannot be empty.
-The minimum password length is %s,The minimum password length is %s
-The password cannot be empty.,The password cannot be empty.
-The password must have at least 6 characters. Leading or trailing spaces will be ignored.,The password must have at least 6 characters. Leading or trailing spaces will be ignored.
-"The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)"
-"The title that goes before name (Mr., Mrs., etc.)","The title that goes before name (Mr., Mrs., etc.)"
-There are no items in customer's wishlist at the moment,There are no items in customer's wishlist at the moment
-There are no items in customer\'s shopping cart at the moment,There are no items in customer\'s shopping cart at the moment
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account."
-There was an error validating the VAT ID.,There was an error validating the VAT ID.
-There was an error validating the VAT ID. The customer would belong to Customer Group %s.,There was an error validating the VAT ID. The customer would belong to Customer Group %s.
-This account is not confirmed.,This account is not confirmed.
-This customer email already exists,This customer email already exists
-This customer has no saved addresses.,This customer has no saved addresses.
-This email does not require confirmation.,This email does not require confirmation.
-"This email will be sent instead of default welcome email, after account confirmation.","This email will be sent instead of default welcome email, after account confirmation."
-This is My Default %s Address,This is My Default %s Address
-To Cart,To Cart
-"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","To show VAT number on frontend, set Show VAT Number on Frontend option to Yes."
+Tag Name,Nombre de etiqueta
+Tax Calculation Based On,Cálculo de impuestos basado en
+Tax Class,Clase de Impuesto
+Tax/VAT number,RFC
+Telephone,Teléfono
+Text,Texto
+Text One Line,Texto Una Línea
+Thank you for registering with %s.,Gracias por registrarte con %s.
+The Date of Birth is required.,Se requiere la fecha de nacimiento.
+The TAX/VAT number is required.,Se requiere RFC
+The VAT ID entered (%s) is not a valid VAT ID.,El RFC que (% s) que ingresaste no es válido.
+The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.,El RFC (% s) no es válido. El cliente pertenecería al grupo de clientes %s.
+The VAT ID is valid. The current Customer Group will be used.,El RFC es válido. Se utilizará el grupo de clientes actual .
+The account information has been saved.,La información de la cuenta se ha guardado.
+The address does not belong to this customer.,La dirección no pertenece a este cliente.
+The address has been deleted.,La dirección fue eliminada.
+The address has been saved.,Se guardó la dirección.
+"The customer ID and email did not match, skipping the record, line: %s","El ID de cliente y el correo electrónico no coinciden, se omitió el registro, línea: %s"
+The customer does not have default billing address.,El cliente no tiene dirección de facturación predeterminada.
+"The customer email (%s) already exists, skipping the record, line: %s","El correo electrónico del cliente (%s) ya existe, se omite el registro, línea: %s"
+The customer group has been deleted.,Se eliminó el grupo de clientes.
+The customer group has been saved.,Se guardó el grupo de clientes.
+The customer is currently assigned to Customer Group %s.,El cliente ya está asignado al Grupo de Clientes %s.
+The first name cannot be empty.,El nombre no puede estar vacío.
+"The group ""%s"" cannot be deleted","El grupo ""%s"" no se puede eliminar"
+The last name cannot be empty.,El apellido no puede estar vacío.
+The minimum password length is %s,La longitud mínima de la contraseña es %s
+The password cannot be empty.,La contraseña no puede estar en blanco.
+The password must have at least 6 characters. Leading or trailing spaces will be ignored.,La contraseña debe tener mínimo 6 caracteres. Serán ignorados espacios iniciales o finales.
+"The suffix that goes after name (Jr., Sr., etc.)",El sufijo que va después del nombre
+"The title that goes before name (Mr., Mrs., etc.)","El título que va antes del nombre (Sr., Sra., Etc.)"
+There are no items in customer's wishlist at the moment,No hay artículos en la lista de deseos del cliente en este momento
+There are no items in customer\'s shopping cart at the moment,Por el momento no hay artículos en el carrito del cliente 
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","Ya existe una cuenta con esta dirección de correo electrónico. Si estás seguro que es tu dirección de correo electrónico, haz  <a href=""%s""> clic aquí </a> para recuperar tu contraseña y acceder a tu cuenta."
+There was an error validating the VAT ID.,Hubo un error al validar el RFC.
+There was an error validating the VAT ID. The customer would belong to Customer Group %s.,Hubo un error al validar el RFC. El cliente pertenecería al grupo de Clientes %s.
+This account is not confirmed.,Esta cuenta no está confirmada.
+This customer email already exists,Este correo electrónico del cliente ya existe 
+This customer has no saved addresses.,Este cliente no ha guardado direcciones.
+This email does not require confirmation.,Este correo electrónico no requiere confirmación.
+"This email will be sent instead of default welcome email, after account confirmation.","Este correo electrónico será enviado en lugar del correo de bienvenida predeterminado, después de la confirmación de cuenta."
+This is My Default %s Address,Esta es mi dirección predeterminada %s
+To Cart,Al Carrito
+"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Para mostrar el RFC en el frontend, cambia a ""Sí"" la opcón del Fontend ""Mostrar RFC"" ."
 Total,Total
 Type,Tipo
-Unknown,Unknown
-Unsubscribe from Newsletter,Unsubscribe from Newsletter
+Unknown,Desconocido
+Unsubscribe from Newsletter,Darse de baja del boletín
 Update,Actualizar
-Update customer address data,Update customer address data
-Update customer data,Update customer data
-Use as My Default %s Address,Use as My Default %s Address
-Use as My Default Billing Address,Use as My Default Billing Address
-Use as My Default Shipping Address,Use as My Default Shipping Address
-Use as my default billing address,Use as my default billing address
-Use as my default shipping address,Use as my default shipping address
-VAT Number,VAT Number
-VAT Request Date,VAT Request Date
-VAT Request Identifier,VAT Request Identifier
-Validate VAT Number,Validate VAT Number
-Validate on Each Transaction,Validate on Each Transaction
-Validation Error Group,Validation Error Group
-View,View
-View Order,View Order
-Visitor,Visitor
-Visitors Only,Visitors Only
+Update customer address data,Actualización de datos de direcciones de clientes
+Update customer data,Actualización de datos del cliente
+Use as My Default %s Address,Usar %s como mi dirección predeterminada
+Use as My Default Billing Address,Utilizar como mi dirección de facturación predeterminada
+Use as My Default Shipping Address,Utilizar como mi dirección de envío predeterminada
+Use as my default billing address,Utilizar como mi dirección de facturación predeterminada
+Use as my default shipping address,Utilizar como mi dirección de envío predeterminada
+VAT Number,RFC
+VAT Request Date,Fecha de solicitud de IVA 
+VAT Request Identifier,Solicitud identificador de IVA
+Validate VAT Number,Validar RFC
+Validate on Each Transaction,Validar en cada transacción
+Validation Error Group,Validación de Error de Grupo
+View,Ver
+View Order,Ver pedido
+Visitor,Visitante
+Visitors Only,Sólo Visitantes
 Website,Website
-Welcome Email,Welcome Email
-Wishlist,Wishlist
-Wishlist - %d item(s),Wishlist - %d item(s)
-Would you like to change the Customer Group for this order?,Would you like to change the Customer Group for this order?
-Wrong confirmation key.,Wrong confirmation key.
-Wrong customer account specified.,Wrong customer account specified.
-Wrong email.,Wrong email.
-Wrong transactional account email type,Wrong transactional account email type
-YYYY,YYYY
-Year,Year
-You are currently not subscribed to any newsletter.,You are currently not subscribed to any newsletter.
-You are currently not subscribed to our newsletter.,You are currently not subscribed to our newsletter.
-You are currently subscribed to 'General Subscription'.,You are currently subscribed to 'General Subscription'.
-You are currently subscribed to our newsletter.,You are currently subscribed to our newsletter.
-You are now logged out,You are now logged out
-You have logged out and will be redirected to our homepage in 5 seconds.,You have logged out and will be redirected to our homepage in 5 seconds.
-You have no additional address entries in your address book.,You have no additional address entries in your address book.
-You have no additional entries in your address book.,You have no additional entries in your address book.
-You have no default billing address in your address book.,You have no default billing address in your address book.
-You have no default entries in your address book.,You have no default entries in your address book.
-You have no default shipping address in your address book.,You have no default shipping address in your address book.
-You have not set a default billing address.,You have not set a default billing address.
-You have not set a default shipping address.,You have not set a default shipping address.
-You have placed no orders yet.,You have placed no orders yet.
-You have placed no products yet.,You have placed no products yet.
-You will be charged tax.,You will be charged tax.
-You will not be charged tax.,You will not be charged tax.
-Your Tax ID cannot be validated.,Your Tax ID cannot be validated.
-Your VAT ID was successfully validated.,Your VAT ID was successfully validated.
-Your account balance is: %s,Your account balance is: %s
-ZIP,ZIP
-ZIP/Post Code,ZIP/Post Code
-Zip/Postal Code,Zip/Postal Code
+Welcome Email,Email de bienvenida
+Wishlist,Lista de deseos
+Wishlist - %d item(s),Lista de deseos - %d artículo(s)
+Would you like to change the Customer Group for this order?,¿Quieres cambiar el grupo de clientes para este pedido?
+Wrong confirmation key.,Tecla de confirmación incorrecta.
+Wrong customer account specified.,Se especificó una cuenta de cliente incorrecta.
+Wrong email.,Email incorrecto.
+Wrong transactional account email type,Tipo de cuenta de correo electrónico transaccional incorrecta.
+YYYY,AAAA
+Year,Año
+You are currently not subscribed to any newsletter.,No te has suscrito a ningún boletín.
+You are currently not subscribed to our newsletter.,No te has suscrito a nuestro boletín de noticias.
+You are currently subscribed to 'General Subscription'.,"Tienes una ""Suscripción General""."
+You are currently subscribed to our newsletter.,Ya estás suscrito a nuestro boletín de noticias.
+You are now logged out,Cerraste tu sesión
+You have logged out and will be redirected to our homepage in 5 seconds.,Cerraste tu sesión y serás redirigido a nuestra página de inicio en 5 segundos.
+You have no additional address entries in your address book.,No tienes direcciones adicionales registradas en tu libreta de direcciones.
+You have no additional entries in your address book.,No tienes registros adicionales en tu libreta de direcciones.
+You have no default billing address in your address book.,No tienes ninguna dirección de facturación predeterminada en tu libreta de direcciones.
+You have no default entries in your address book.,No tienes registros predeterminados en tu libreta de direcciones.
+You have no default shipping address in your address book.,No tienes ninguna dirección de envío predeterminada en tu libreta de direcciones.
+You have not set a default billing address.,No has configurado una dirección de facturación predeterminada.
+You have not set a default shipping address.,No has establecido una dirección de envío predeterminada.
+You have placed no orders yet.,No has hecho ningún pedido todavía.
+You have placed no products yet.,No has solicitado ningún producto todavía.
+You will be charged tax.,Se añadirán los impuestos.
+You will not be charged tax.,No se cargarán impuestos.
+Your Tax ID cannot be validated.,Tu RFC no se puede validar.
+Your VAT ID was successfully validated.,Tu RFC fue validado con éxito.
+Your account balance is: %s,El saldo de tu cuenta es: %s
+ZIP,C.P.
+ZIP/Post Code,CP/Código Postal
+Zip/Postal Code,C.p./Código Postal
 n/a,n/a
-or,or
+or,ó
