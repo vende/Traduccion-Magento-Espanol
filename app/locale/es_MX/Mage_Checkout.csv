@@ -5,8 +5,8 @@
 * Required Fields,* Campos requeridos
 Add New Address,Agregar nueva dirección
 Add New Condition,Agregar nueva condición
-Add coupon code for shopping cart,Agregar cupón para el carrito de compra
-Add gift messages to shopping cart,Add gift messages to shopping cart
+Add coupon code for shopping cart,Agregar código de cupón al carrito de compra
+Add gift messages to shopping cart,Agregar certificados de regalo al carrito de compra
 Add product to shopping cart,Agregar producto al carrito de compra
 Add product(s) to shopping cart,Agregar producto(s) al carrito de compra
 Add to Cart,Agregar a carrito
@@ -30,7 +30,7 @@ Back to Billing Information,Volver a información de cobranza
 Back to Select Addresses,Volver a elección de dirección
 Back to Shipping Information,Volver a información de envío
 Back to Shopping Cart,Volver a carrito de compra
-"Based on your selection, you may be interested in the following items:","Basado en tu elección, puede que estés interesado en los siguientes artículos:"
+"Based on your selection, you may be interested in the following items:","Basadonos en tu elección, puede que estés interesado en los siguientes artículos:"
 Billing Address,Dirección de cobranza
 Billing Information,Información de cobranza
 Billing Information - %s,Información de cobranza - %s
@@ -43,14 +43,14 @@ Cannot add the item to shopping cart,No se puede añadir el artículo al carrito
 Cannot add the item to shopping cart.,No se puede añadir el artículo al carrito de compra.
 Cannot apply the coupon code.,No se puede aplicar el cupón.
 Cannot configure product.,No se puede configuar el producto.
-Cannot open the overview page,No se puede abrir la vista de la página
+Cannot open the overview page,No se puede abrir la vista general de la página
 Cannot process the item.,No se puede procesar el artículo.
 Cannot remove the item.,No se puede descartar el artículo.
 Cannot update shopping cart.,No se puede actualizar el carrito de compra.
 Cannot update the item.,No se puede actualizar el carrito.
 Card Verification Number Visual Reference,Referencia visual de número de verificación de tarjeta
 Cart,Carrito de compra
-Cart Product API,Cart Product API
+Cart Product API,API de producto
 Cart Subtotal:,Subtotal de carrito:
 Change,Cambiar
 Change Billing Address,Cambiar dirección de cobranza
@@ -79,7 +79,7 @@ Confirm Password,Confirmar contraseña
 Content,Contenido
 Content Height,Altura de contenido
 Content Height (css),Altura de contenido (css)
-Continue,Siguiente Paso
+Continue,Continuar comprando
 Continue Shopping,Continuar comprando
 Continue to Billing Information,Continuar con información de cobranza
 Continue to Review Your Order,Continuar con revisión de tu orden
@@ -87,7 +87,7 @@ Continue to Shipping Information,Continuar con la información de envío
 Country,País
 "Coupon code ""%s"" is not valid.","Código de cupón ""%s"" no es valido."
 "Coupon code ""%s"" was applied.","Código de cupón ""%s"" fue aplicado."
-Coupon code was canceled.,El cupón fue cancelado
+Coupon code was canceled.,El código de cupón fue cancelado
 Create Billing Address,Crear dirección de cobranza
 Create Shipping Address,Crear dirección de envío
 Create an order from shopping cart,Crear una orden desde el carrito de compra
@@ -134,7 +134,6 @@ Fast and easy check out,Proceso de compra fácil y rapido
 Fax,Fax
 Forgot an Item?,¿Se te olvida un artículo?
 Forgot your password?,¿Olvidaste tu contraseña?
-Forgot Your Password?,¿Olvidaste tu contraseña?
 Get a Quote,Obtener una cotización
 Get list of available payment methods,Obtener una lista de metodos de pago disponibles
 Get list of available shipping methods,Obtener una lista de metodos de envío disponibles
@@ -160,8 +159,8 @@ Items After,Artículos después
 Items Before,Artículos antes.
 Load customer quote error,Cargar error de cotización de cliente.
 Loading next step...,Cargando siguiente paso...
-Login,Entrar
-Login/Registration Before,Entrar/Registrar antes
+Login,Ingresar nueva dirección
+Login/Registration Before,Ingresar/Registrarse antes
 Manage Terms and Conditions,Gestionar terminos y condiciones
 Maximum Display Recently Added Item(s),Cantidad máxima mostrada de artículos recientemente añadidos. 
 Maximum qty allowed for Shipping to multiple addresses is %s,La cantidad máxima permitida para envíos a multiples direcciones es %s
@@ -192,9 +191,9 @@ New Condition,Nueva condición.
 New Terms and Conditions,Nuevos terminos y condiciones
 No Payment Methods,No hay métodos de pago
 ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER,SE MOSTRARÁ EL TOTAL DEL PEDIDO ANTES DE QUE ENVIES LA CONFIRMACIÓN
-One Page Checkout,Proceso de compra de una página
-One Page Checkout Failure,Falló proceso de compra de una página
-One Page Checkout Overview,Revisión de compra de una página
+One Page Checkout,"Proceso de compra ""One Page"""
+One Page Checkout Failure,Falló proceso de compra
+One Page Checkout Overview,"Revisión de compra ""One Page"""
 One Page Checkout Success,Compra éxitosa (One Page)
 One item of products do not have identifier or sku,Uno de los artículos no tiene SKU
 One item of products is not belong any of quote item,Uno de los artículos ya no pertenece a los artículos cotizados
@@ -205,20 +204,20 @@ Order place error.,Error al hacer pedido.
 Other Items in Your Order,Otros artículos en tu pedido
 Overview Items After,Revisión de artículos
 Password,Contraseña
-Payment Failed Email Reciever,Payment Failed Email Reciever
-Payment Failed Email Sender,Payment Failed Email Sender
-Payment Failed Emails,Payment Failed Emails
-Payment Failed Template,Payment Failed Template
+Payment Failed Email Reciever,Correo electrónico receptor de error de pago 
+Payment Failed Email Sender,Correo electrónico remitente de error de pago 
+Payment Failed Emails,Emails de error de pago
+Payment Failed Template,Plantilla de error de pago
 Payment Information,Información de pago
 Payment Method,Métodos de pago
-Payment Methods After,Payment Methods After
-Payment Methods After Checkout Button,Payment Methods After Checkout Button
-Payment Methods Before,Payment Methods Before
-Payment Methods Before Checkout Button,Payment Methods Before Checkout Button
-Payment method information,Payment method information
-Payment method is not defined,Payment method is not defined
-Payment methods in shopping cart,Payment methods in shopping cart
-"Payment profile # %s: ""%s"".","Payment profile # %s: ""%s""."
+Payment Methods After,Métodos de pago posteriores
+Payment Methods After Checkout Button,"Métodos de pago después del botón ""Comprar"""
+Payment Methods Before,Métodos de pago antes
+Payment Methods Before Checkout Button,"Métodos de pago antes del botón ""Comprar"""
+Payment method information,Información de método de pago
+Payment method is not defined,El método de pago no está definido
+Payment methods in shopping cart,Métodos de pago en el carrito de compras
+"Payment profile # %s: ""%s"".","Perfil de pago # %s: ""%s""."
 Place Order,Realizar pedido
 Please agree to all Terms and Conditions before placing the order.,Por favor confirma que estás de acuerdo con todos los Terminos y Condiciones antes de realizar tu pedido.
 Please agree to all Terms and Conditions before placing the orders.,Por favor confirma que estás de acuerdo con todos los Terminos y Condiciones antes de realizar tus pedidos.
@@ -308,7 +307,7 @@ Some products quantities were recalculated because of quantity increment mismatc
 "Sorry, guest checkout is not enabled. Please try again or contact store owner.","Lo sentimos, no es posible comprar como invitado. Por favor intenta nuevamente o contacta al administradoe de la tienda."
 "Sorry, no quotes are available for this order at this time.","Lo sentimos, no hay cotizaciones disponibles para este pedido en este momento"
 State/Province,Estado/Provincia
-Status,Status
+Status,Estado
 Store View,Vista de tienda
 Street Address,Calle
 Street Address %s,Calle %s
@@ -343,7 +342,7 @@ Update Total,Actualizar total
 Update product quantities in shopping cart,Actualizar cantidad de artículos en el carrito de compra
 Update product(s) quantities in shopping cart,Actualizar cantidad de artículos en el carrito de compra
 Use Billing Address,Usar dirección de cobranza
-VAT Number,Número VAT
+VAT Number,RFC
 View Shopping Cart,Ver carrito de compra
 We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.,Estamos procesando tu pedido y pronto recibirás un correo electrónico con los detalles. Una vez que hayamos enviado tu pedido recibirás otro correo electrónico con un enlace para darle seguimiento.
 What&#39;s this?,¿Qué es esto?
@@ -352,7 +351,7 @@ You have no items in your shopping cart.,No tienes artículos en tu carrito de c
 You will receive an order confirmation email with details of your order and a link to track its progress.,Recibirás un correo electrónico de confirmación con los detalles de tu pedido y un enlace para darle seguimiento.
 Your Checkout Progress,Tu progreso en el proceso de compra
 Your billing agreement # is: %s.,Tu acuerdo de cobranza # es: %s.
-Your order # is: %s.,Tu pedido # es: %s.
+Your order # is: %s.,Tu pedido es: %s.
 Your order cannot be completed at this time as there is no payment methods available for it.,Tu pedido no puede ser completado en este momento debido a que no hay metodos de pago disponibles.
 Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.,Tu pedido no puede ser completada en este momenteo debido a que no hay métodos de envío disponible. Por favor haz los cambios necesarios en tu dirección de envío.
 Your order has been received.,Tu orden ha sido recibida. 
@@ -361,4 +360,4 @@ Your recurring payment profiles:,Tus perfiles de pago recurrentes:
 Zip,C.P.
 Zip/Postal Code,Código Postal
 ok,ok
-or,or
+or,ó
