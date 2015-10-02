@@ -3,7 +3,7 @@
 %s - %s,%s - %s
 %s Item(s),%s Artículo(s)
 %s and above,%s y superior
-%s-%s of %s,%s-%s of %s
+%s-%s of %s,%s-%s de %s
 (%d),(%d)
 (Copy data from: %s),(Copiar datos de: %s)
 * Required Fields,* Campos requeridos
@@ -475,105 +475,105 @@ Please select items.,Por favor selecciona artículos.
 Please select one or more attributes.,Por favor selecciona uno o más atributos
 Please select product(s).,"Por favor, seleccione tu producto (s)."
 Please select products for attributes update,Para actualizar productos por favor selecciona productos
-Please specify date required option(s).,Please specify date required option(s).
-"Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals."
-Please specify the product required option(s),Please specify the product required option(s)
-Please specify the product required option(s).,Please specify the product required option(s).
-Please specify the product\'s option(s).,Please specify the product\'s option(s).
-Please specify the product\'s required option(s).,Please specify the product\'s required option(s).
-Please specify the quantity of product(s).,Please specify the quantity of product(s).
-Please specify time required option(s).,Please specify time required option(s).
+Please specify date required option(s).,"Por favor, especifíca la(s) opción(es) obligatoria(s) de fecha ."
+"Please specify the number of products, that will not be divided into subintervals.","Por favor, especifíca el número de productos, que no se van a dividir en subintervalos."
+Please specify the product required option(s),"Por favor, especifíca la(s) opción(es) obligatoria(s) del producto(s)"
+Please specify the product required option(s).,"Por favor, especfíca la(s) opción(es) obligatoria(s) del producto(s)"
+Please specify the product\'s option(s).,"Por favor, especifíca la(s) opción(es) de producto(s)."
+Please specify the product\'s required option(s).,"Por favor, especifíca las opciones obligatorias del producto(s)."
+Please specify the quantity of product(s).,"Por favor, especifíca la cantidad de producto(s)."
+Please specify time required option(s).,"Por favor, especifíca la(s) opción(es) de tiempo requerida(s)."
 Please wait...,Por favor espera...
 Position,Posición
-Position in Layered Navigation,Position in Layered Navigation
-Position of attribute in layered navigation block,Position of attribute in layered navigation block
+Position in Layered Navigation,Posición en navegación por capas
+Position of attribute in layered navigation block,Posición de atributo en bloque de navegación por capas
 Prev,Prev
 Previous,Previo
 Price,Precio
-Price Navigation Step Calculation,Price Navigation Step Calculation
+Price Navigation Step Calculation,Paso de Cálculo de Precio de Navegación
 Price Type,Tipo de Precio
 Price is not available,Precio no disponible
-Price values for options should be specified in system base currency.,Price values for options should be specified in system base currency.
+Price values for options should be specified in system base currency.,Los valores del precio para las opciones deben ser especificadas en la divisa base del sistema.
 Price:,Precio:
 Price: %s,Precio: %s
 Print This Page,Imprimir Esta Página
 Product,Producto
-Product API,Product API
+Product API,API de Producto
 Product Alerts,Alertas de Producto
 Product Attribute,Atributo de Producto
 Product Attributes,Atributos de Productos
 Product Categories,Categoría de Productos
 Product Description,Descripción de Productos
-Product Extra Info,Product Extra Info
-Product Flat Data,Product Flat Data
+Product Extra Info,Información complementaria de producto 
+Product Flat Data,Datos planos de producto
 Product ID,ID de Producto
 Product Image,Imagen de Producto
-Product Image Placeholders,Product Image Placeholders
+Product Image Placeholders,Marcadores de posición (Placeholders) de imagen de producto
 Product Image Watermarks,Marca de Agua de Imagen de Producto 
 Product Images,Imagenes de Producto
-Product Images API,Product Images API
+Product Images API,API de Imagenes de producto 
 Product In Websites,Producto en Sitios web
 Product Info Column,Columna de Información de Producto
 Product Information,Información de Producto
-Product Link Block Template,Plantilla de enlace de bloque de producto
-Product Link Inline Template,Product Link Inline Template
-Product Listing Sort by,Product Listing Sort by
+Product Link Block Template,Plantilla de enlace de producto en bloque
+Product Link Inline Template,"Plantilla de Enlace Producto ""Inline """
+Product Listing Sort by,Ordenar listado de productos por
 Product Name,Nombre de producto
 Product Prices,Precios de Productos
 Product Reviews,Revisiones de Producto
 Product Tags,Etíquetas de Producto
-Product Tier Price API,Product Tier Price API
+Product Tier Price API,API de nivel de precio de producto
 Product Type,Tipo de Producto
-Product URL Suffix,Product URL Suffix
-Product View Extra Hint,Product View Extra Hint
+Product URL Suffix,Sufijo de URL de Producto
+Product View Extra Hint,Vista de producto con sugerencia extra
 Product attribute sets API,Product attribute sets API
-Product attributes API,Product attributes API
-Product collection expected.,Product collection expected.
-Product is not loaded,Producto no Cargado
-"Product links API (related, cross sells, up sells)","Product links API (related, cross sells, up sells)"
-Product types API,Product types API
-Product with this combination of attributes already associated to configurable.,Product with this combination of attributes already associated to configurable.
+Product attributes API,API de atributos de producto
+Product collection expected.,Grupo de producto esperado.
+Product is not loaded,Producto no cargado
+"Product links API (related, cross sells, up sells)","(API) Enlaces de producto (relacionado, venta cruzada, up sells)"
+Product types API,(API) Tipos de producto
+Product with this combination of attributes already associated to configurable.,Producto con esta combinación de atributos ya está asociado a configurable.
 Products,Productos
 Products Comparison List,Lista de comparación de productos
 Products Information,Información de Productos
 Products Reviews,Revisión de Productos
-Products Sitemap,Products Sitemap
+Products Sitemap,Mapa del sitio de productos
 Products only,Sólo Productos
-Products per Page on Grid Allowed Values,Products per Page on Grid Allowed Values
-Products per Page on Grid Default Value,Products per Page on Grid Default Value
-Products per Page on List Allowed Values,Products per Page on List Allowed Values
-Products per Page on List Default Value,Products per Page on List Default Value
+Products per Page on Grid Allowed Values,Productos por Página en Valores Permitidos de Cuadrícula 
+Products per Page on Grid Default Value,Productos por Página en Valores Predeterminados de Cuadrícula 
+Products per Page on List Allowed Values,Productos por Página en Valores Permitidos de Lista
+Products per Page on List Default Value,Productos por Página en Valores Predeterminados de Lista
 Properties,Propiedades
 Qty,Cant
 Qty Increments,Incrementos de Cant
-Qty Uses Decimals,Qty Uses Decimals
-Qty for Item\'s Status to Become Out of Stock,Qty for Item\'s Status to Become Out of Stock
+Qty Uses Decimals,Cantidad con decimales
+Qty for Item\'s Status to Become Out of Stock,"Cantidad de artículos para cambiar su estatus a ""sin inventario"""
 Qty:,Cant:
 Quantity,Cantidad
 Quick Create,Crear rápido
 Quick Overview,Visión General Rápida
-Quick simple product creation,Quick simple product creation
-"Records for ""%s"" store found.","Records for ""%s"" store found."
+Quick simple product creation,Creación rápida de producto simple
+"Records for ""%s"" store found.","Se encontraron registros de la tienda ""%s""."
 Redirect,Redireccionar
-Redirect URL,Redirect URL
+Redirect URL,URL de Redirección
 Regular Price:,Precio Regular:
-Related Products,Related Products
+Related Products,Productos Relacionados
 Remove,Quitar
-Remove Product From Websites,Remove Product From Websites
+Remove Product From Websites,Eliminar producto de los sitios web
 Remove This Item,Descartar este artículo
-Remove attribute from attribute set,Remove attribute from attribute set
+Remove attribute from attribute set,Retirar atributo del conjunto de atributos
 Remove attribute set,Quitar Este Conjunto de Atributos
 Remove custom option,Quitar Opción Personalizada
-Remove group from attribute set,Remove group from attribute set
+Remove group from attribute set,Eliminar grupo del conjunto de atributos
 Remove option,Quitar opción
-Remove product assignment,Remove product assignment
+Remove product assignment,Eliminar asignación de producto
 Remove product image,Quitar imagen de producto
 Remove product link,Quitar link de producto
-Remove value from custom option,Remove value from custom option
+Remove value from custom option,Quite el valor de la opción personalizada
 Rename existing group,Renombrar grupo existente
 Rename group,Renombrar grupo
-Reorganize EAV category structure to flat structure,Reorganize EAV category structure to flat structure
-Reorganize EAV product structure to flat structure,Reorganize EAV product structure to flat structure
+Reorganize EAV category structure to flat structure,Reorganizar estructura de categoría EAV a estructura plana
+Reorganize EAV product structure to flat structure,Reorganizar estructura de producto EAV a estructura plana
 Reset,Reestablecer
 Results,Resultados
 Results per page,Resultados por página
@@ -581,17 +581,17 @@ Retrieve attribute data,Recuperar datos de atributo
 Retrieve attribute list,Recuperar lista de atributos
 Retrieve attribute options,Recuperar opciones de atributos
 Retrieve categories tree,Recuperar árbol de categorías
-Retrieve category attributes,Retrieve category attributes
-Retrieve category data,Retrieve category data
+Retrieve category attributes,Recuperar atributos de categoría
+Retrieve category data,Recuperar datos de categoría
 Retrieve hierarchical tree,Recuperar árbol jerarquico
 Retrieve linked products,Recuperar productos enlazados
 Retrieve list of assigned products,Recuperar lista de productos asignados
-Retrieve list of option values,Retrieve list of option values
-Retrieve list of product custom options,Retrieve list of product custom options
-Retrieve one level of categories by website/store view/parent category,Retrieve one level of categories by website/store view/parent category
-Retrieve option value info,Retrieve option value info
+Retrieve list of option values,Recuperar la lista de valores de opción 
+Retrieve list of product custom options,Recuperar la lista de opciones de personalización del producto 
+Retrieve one level of categories by website/store view/parent category,Recuperar un nivel de categorías por sitio web/vista de tienda/categoría padre
+Retrieve option value info,Recuperar la información de opción de valor
 Retrieve product,Recuperar producto
-Retrieve product attribute sets,Retrieve product attribute sets
+Retrieve product attribute sets,Recuperar conjuntos de atributos del producto
 Retrieve product image,Recuperar imagen de producto
 Retrieve product image list,Recuperar lista de imagenes de producto
 Retrieve product image types,Recuperar tipos de imagenes de producto
@@ -620,17 +620,17 @@ Search Engine Optimizations,Optimizaciones de Motor de Busqueda
 Search Information,Buscar Información
 Search Query,Buscar Consulta
 Search Term with such search query already exists.,Término de Búsqueda con tanta consulta de búsqueda ya existe.
-Searchable,Searchable
-See price before order confirmation.,See price before order confirmation.
+Searchable,Disponible para busquedas
+See price before order confirmation.,Ver precio antes de la confirmación del pedido.
 Select Category...,Seleccionar Categoría...
-Select Configurable Attributes ,Select Configurable Attributes 
+Select Configurable Attributes ,Seleccionar atributos configurables
 Select Product...,Seleccionar Producto...
-Select type of option,Select type of option
-Select type options required values rows.,Select type options required values rows.
-Selected Product Types,Selected Product Types
+Select type of option,Selecciona el tipo de opción
+Select type options required values rows.,Selecciona el tipo de opciones que requieren valores de filas.
+Selected Product Types,Tipos de productos seleccionados
 Send Count,Envíar conteo. 
-Set Ascending Direction,Set Ascending Direction
-Set Descending Direction,Set Descending Direction
+Set Ascending Direction,Configurar sentido ascendente
+Set Descending Direction,Configurar sentido descendente
 Set Name,Establecer nombre
 Set Root Category for Store,Establecer Categoría Raíz para la tienda
 "Set root category for this store in the <a href=""%s"">configuration</a>","Establecer categoría raíz de esta tienda en la <a href=""%s""> configuración </a>"
@@ -651,98 +651,98 @@ Sitemap,Mapa del sitio
 "Skip import row, is not valid value ""%s"" for field ""%s""","Omitir importación de fila , no es un valor válido ""% s"" para el campo ""% s"""
 "Skip import row, required field ""%s"" for the new customer is not defined.","Omitir importación de fila, campo requerido ""% s"" para el nuevo cliente no está definido."
 "Skip import row, the value ""%s"" is invalid for field ""%s""","Omitir importación de fila, el valor ""% s"" no es válido para el campo ""% s"""
-"Skipping import row, required field ""%s"" for new products is not defined.","Skipping import row, required field ""%s"" for new products is not defined."
-"Skipping import row, required field ""%s"" is not defined.","Skipping import row, required field ""%s"" is not defined."
-"Skipping import row, store ""%s"" field does not exist.","Skipping import row, store ""%s"" field does not exist."
-"Skipping import row, the value ""%s"" is not valid for the ""%s"" field.","Skipping import row, the value ""%s"" is not valid for the ""%s"" field."
-Small Image Width,Small Image Width
-Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.,Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.
-Some of the selected item options are not currently available.,Some of the selected item options are not currently available.
+"Skipping import row, required field ""%s"" for new products is not defined.","Se omite la importación de fila, el campo requerido ""%s"" para los nuevos productos no esta definido."
+"Skipping import row, required field ""%s"" is not defined.","Se omite la importación de fila, el campo requerido ""%s"" no esta definido."
+"Skipping import row, store ""%s"" field does not exist.","Se omite la importación de fila, el campo ""%s"" no existe."
+"Skipping import row, the value ""%s"" is not valid for the ""%s"" field.","Se omite la importación de fila, el valor ""%s"" no es valido para el campo ""%s""."
+Small Image Width,Ancho Imagen Pequeña
+Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.,Algunos de los productos procesados no tienen SKU definido. Por favor llenalos antes de realizar operaciones con estos productos.
+Some of the selected item options are not currently available.,Algunas de las opciones de artículos seleccionados no están disponibles actualmente.
 Sort By,Ordenar Por
-Sort Order,Sort Order
-Source Model,Source Model
-Special Expires On: %s,Special Expires On: %s
+Sort Order,Orden de Clasificación.
+Source Model,Modelo de fuente
+Special Expires On: %s,Especial Expira En: %s
 Special Price:,Precio Especial:
-Special Price: %s,Special Price: %s
-Starting at:,Starting at:
+Special Price: %s,Precio Especial: %s
+Starting at:,Comienza en:
 Static,Estático
-Static block and products,Static block and products
+Static block and products,Bloque estático y productos 
 Static block only,Sólo Bloque Estático
 Status,Estado
 Stock Availability,Disponibilidad de Inventario
 Store,Tienda
 Store View,Vista de Tienda
-Stretch,Stretch
-Subscribe to RSS Feed,Subscribe to RSS Feed
-Super product attributes configuration,Super product attributes configuration
+Stretch,Tramo
+Subscribe to RSS Feed,Suscribete al feed RSS
+Super product attributes configuration,Configuración de los atributos del súper producto
 Synonym For,Sinónimo para
 System Properties,Propiedades de Sistema
 Tag Name,Nombre de Etiqueta
 Tax,Impuestos
 Template,Plantilla
 Text,Texto
-The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module,The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module
-The From Date value should be less than or equal to the To Date value.,The From Date value should be less than or equal to the To Date value.
-The attribute code \'%s\' is reserved by system. Please try another attribute code,The attribute code \'%s\' is reserved by system. Please try another attribute code
-The attribute model is not defined,The attribute model is not defined
-The attribute set has been saved.,The attribute set has been saved.
-The base directory to upload file is not specified.,The base directory to upload file is not specified.
+The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module,"El módulo Catálogo plano tiene un límite de %2\$d filtrable y/o atributos que se pueden ordenar. Actualmente hay %1\$d de ellos. Por favor, reduce el número de atributos filtrables/que se pueden ordenar con el fin de utilizar este módulo"
+The From Date value should be less than or equal to the To Date value.,"El valor ""Desde la fecha"" debe ser menor o igual al valor ""Hasta la fecha""."
+The attribute code \'%s\' is reserved by system. Please try another attribute code,"El código de atributo \'%s\' está reservado por el sistema. Por favor, intenta otro código de atributo"
+The attribute model is not defined,El modelo de atributo no está definido
+The attribute set has been saved.,El conjunto de atributos ha sido guardado.
+The base directory to upload file is not specified.,No se especifica el directorio base para cargar el archivo.
 The category has been deleted.,La categoría fue eliminada.
 The category has been saved.,La categoría fue guardada.
-The comparison list was cleared.,Se limpió la lista de comparación.
+The comparison list was cleared.,Se vació la lista de comparación.
 The file '%s' for '%s' has an invalid extension,El archivo '%s' para '%s' tiene una extensión invalida
-The file '%s' you uploaded is larger than %s Megabytes allowed by server,The file '%s' you uploaded is larger than %s Megabytes allowed by server
-The file you uploaded is larger than %s Megabytes allowed by server,The file you uploaded is larger than %s Megabytes allowed by server
-The filters must be an array.,The filters must be an array.
+The file '%s' you uploaded is larger than %s Megabytes allowed by server,El archivo '%s' pesa más de los %s Megabytes permitidos por el servidor
+The file you uploaded is larger than %s Megabytes allowed by server,El archivo que subiste pesa más de los %s Megabytes permitidos por el servidor
+The filters must be an array.,Los filtros tienen que ser una matríz.
 The image contents is not valid base64 data.,El contenido de la imagen no es un dato base64 valido.
 The image is not specified.,La imagen no está especificada.
-The model collection resource name is not defined.,The model collection resource name is not defined.
-The product %s has been added to comparison list.,The product %s has been added to comparison list.
-The product %s has been removed from comparison list.,The product %s has been removed from comparison list.
-The product attribute has been deleted.,The product attribute has been deleted.
-The product attribute has been saved.,The product attribute has been saved.
-The product has been created.,The product has been created.
-The product has been deleted.,The product has been deleted.
-The product has been duplicated.,The product has been duplicated.
-The product has been saved.,The product has been saved.
-The product has required options,The product has required options
-The review has been deleted,The review has been deleted
-The review has been saved.,The review has been saved.
-The review was removed by another user or does not exist.,The review was removed by another user or does not exist.
+The model collection resource name is not defined.,El model collección nombre de recurso no está definido.
+The product %s has been added to comparison list.,El producto %s ha sido añadido a la lista de comparación.
+The product %s has been removed from comparison list.,El producto %s ha sido eliminado de la lista de comparación.
+The product attribute has been deleted.,El atributo de producto ha sido eliminado.
+The product attribute has been saved.,El atributo de producto ha sido guardado.
+The product has been created.,El producto ha sido creado.
+The product has been deleted.,El producto ha sido eliminado.
+The product has been duplicated.,El producto se ha duplicado.
+The product has been saved.,El producto ha sido guardado.
+The product has required options,El producto tiene opciones obligatorias
+The review has been deleted,La revisión ha sido borrado
+The review has been saved.,La revisión se ha guardado.
+The review was removed by another user or does not exist.,La revisión fue eliminadao por otro usuario o no existe.
 The search was deleted.,La busqueda fue eliminada. 
 The text is too long,El texto es demasiado largo
-There are no %s available.,There are no %s available.
-There are no customers for this alert,There are no customers for this alert
-There are no customers for this alert.,There are no customers for this alert.
-There are no products matching the selection.,There are no products matching the selection.
-There was an error while request processing.,There was an error while request processing.
+There are no %s available.,No hay %s disponible.
+There are no customers for this alert,No hay clientes para esta alerta
+There are no customers for this alert.,No hay clientes para esta alerta.
+There are no products matching the selection.,No hay productos que coincidan con la selección.
+There was an error while request processing.,Hubo un error al procesar la solicitud.
 This Attribute no longer exists,Este atributo ya no existe
-This attribute cannot be deleted.,This attribute cannot be deleted.
+This attribute cannot be deleted.,Este atributo no se puede eliminar.
 This attribute cannot be edited.,Este atributo no puede ser editado.
 This attribute cannot be updated.,Este atributo no puede ser actualizado.
-This attribute is used in configurable products.,This attribute is used in configurable products.
-This attribute is used in configurable products. You cannot remove it from the attribute set.,This attribute is used in configurable products. You cannot remove it from the attribute set.
-This attribute no longer exists,This attribute no longer exists
-This attribute set no longer exists.,This attribute set no longer exists.
-"This group contains attributes, used in configurable products. Please move these attributes to another group and try again.","This group contains attributes, used in configurable products. Please move these attributes to another group and try again."
-This group contains system attributes. Please move system attributes to another group and try again.,This group contains system attributes. Please move system attributes to another group and try again.
-This is a required option,This is a required option
-This product no longer exists.,This product no longer exists.
-This search no longer exists.,This search no longer exists.
-This setting will be applied when all prices in the specific price interval are equal.,This setting will be applied when all prices in the specific price interval are equal.
-Tier Pricing,Tier Pricing
-Tile,Tile
-Time Format,Time Format
-Title,Title
+This attribute is used in configurable products.,Este atributo se utiliza en productos configurables.
+This attribute is used in configurable products. You cannot remove it from the attribute set.,Este atributo se utiliza en productos configurables. No se puede quitar del conjunto de atributos.
+This attribute no longer exists,Este atributo ya no existe
+This attribute set no longer exists.,Este conjunto de atributos ya no existe.
+"This group contains attributes, used in configurable products. Please move these attributes to another group and try again.","Este grupo contiene atributos, utilizados en productos configurables. Por favor, mueve estos atributos a otro grupo y vuelve a intentarlo."
+This group contains system attributes. Please move system attributes to another group and try again.,"Este grupo contiene atributos del sistema. Por favor, mueva los atributos del sistema a otro grupo y vuelva a intentarlo."
+This is a required option,Esta es una opción necesaria
+This product no longer exists.,Este producto ya no existe.
+This search no longer exists.,Esta búsqueda ya no existe.
+This setting will be applied when all prices in the specific price interval are equal.,Este ajuste se aplicará cuando todos los precios en el intervalo de precio específico sean iguales.
+Tier Pricing,Precio del Nivel
+Tile,Mosaico
+Time Format,Formato de hora
+Title,Título
 "To reindex the enabled product(s), the store or product must be specified","To reindex the enabled product(s), the store or product must be specified"
 "To see product price, add this item to your cart. You can always remove it later.","To see product price, add this item to your cart. You can always remove it later."
-Top/Left,Top/Left
-Top/Right,Top/Right
-Total Qty Base Items,Total Qty Base Items
-Total incl. Tax: %1$s,Total incl. Tax: %1$s
-Total of %d record(s) have been deleted.,Total of %d record(s) have been deleted.
-Total of %d record(s) have been updated.,Total of %d record(s) have been updated.
-Total of %d record(s) were updated,Total de %d registro(s) fueron actualizados
+Top/Left,Arriba/Izquierda
+Top/Right,Arriba/Derecha
+Total Qty Base Items,Cantidad total de artículos base
+Total incl. Tax: %1$s,Total incluye IVA: %1$s
+Total of %d record(s) have been deleted.,Un total de %d registro(s) fueron actualizados.
+Total of %d record(s) have been updated.,Un total de %d registro(s) fue actualizado.
+Total of %d record(s) were updated,Un total de %d registro(s) fueron actualizados
 Type,Tipo
 URL Rewrite Management,Administracion de reescritura de URL 
 Unable to complete this request.,Imposible comletar esta petición.
@@ -753,7 +753,7 @@ Unassigned Attributes,Atributos no asignados
 "Unknown EAV indexer type ""%s"".","EAV Desconocido, tipo indexador ""% s""."
 Unknown attribute: %s.,Atributo desconocido: %s.
 "Unsupported product type ""%s"".","Este tipo de producto ""%s"" no es soportado"
-Up-sells,Up-sells (Incremento en ventas)
+Up-sells,Up-sells (Incremento de venta)
 Update,Actualizar
 Update Attributes,Actualizar atributos
 Update Tier Price,Actualizar nivel de precio de productos
