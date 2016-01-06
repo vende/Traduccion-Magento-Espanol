@@ -154,7 +154,7 @@ Forgot Your Password,Olvidaste tu contraseña
 Forgot Your Password?,¿Olvidaste tu contraseña?
 Forgot and Remind Email Sender,Olvidar y recordar correo electrónico del remitente
 Form Fields Before,Campos del formulario primero
-From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,Desde Mi Cuenta puedes ver un resumen de la actividad reciente de tu cuenta y también actualizar tu información. Selecciona un enlace para ver o editar.
+From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,Desde <strong>Mi Cuenta</strong> puedes ver un resumen de la actividad reciente de tu cuenta y también actualizar tu información. Selecciona un enlace para ver o editar.
 Gender,Sexo
 Gender is required.,Sexo es un campo obligatorio.
 General Subscription,Suscripción general
@@ -214,7 +214,7 @@ Maximum length must be less then %s symbols,La longitud máxima debe ser menor 
 Month,Mes
 My Account,Mi Cuenta
 My Account Wrapper,Contenedor de Mi Cuenta
-My Dashboard,Mi Panel de Administración
+My Dashboard,Resumen Mi Cuenta
 My Orders,Mis Pedidos
 Name,Nombre
 Name and Address Options,Opciones de nombre y dirección 
