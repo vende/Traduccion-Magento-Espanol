@@ -149,7 +149,7 @@
 "General Settings","General Settings"
 "Get info about current Magento installation","Get info about current Magento installation"
 "Global","Global"
-"Go to shopping cart","Ir al Carrito"
+Go to shopping cart,Ir al Carrito
 "HTML Head","HTML Head"
 "HTML tags are not allowed","HTML tags are not allowed"
 "Header","Header"
@@ -170,7 +170,7 @@
 "Invalid query","Invalid query"
 "Invalid transactional email code: %s","Invalid transactional email code: %s"
 "Invalid website\'s configuration path: %s","Invalid website\'s configuration path: %s"
-"Item was successfully added to your Cart","Artículo agregado al Carrito"
+Item was successfully added to your Cart,Artículo agregado al Carrito
 "JavaScript Settings","JavaScript Settings"
 "Layout","Layout"
 "Leave empty for access from any location.","Leave empty for access from any location."
