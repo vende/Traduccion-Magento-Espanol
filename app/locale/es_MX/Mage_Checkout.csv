@@ -9,6 +9,7 @@ Add coupon code for shopping cart,Agregar código de cupón al carrito de compr
 Add gift messages to shopping cart,Agregar certificados de regalo al carrito de compra
 Add product to shopping cart,Agregar producto al carrito de compra
 Add product(s) to shopping cart,Agregar producto(s) al carrito de compra
+Add some to cart or, Agrega algo al carrito o haz
 Add to Cart,Agregar a carrito
 Add to Compare,Agregar a comparar
 Add to Wishlist,Agregar a lista de deseos
@@ -74,7 +75,7 @@ Close,Cerrar
 Company,Empresa
 Condition Name,Nombre de la condición
 Configurable Product Image,Imagen de producto configurable
-Configure Cart Item,Configurar 
+Configure Cart Item,Configurar
 Confirm Password,Confirmar contraseña
 Content,Contenido
 Content Height,Altura de contenido
@@ -162,7 +163,7 @@ Loading next step...,Cargando siguiente paso...
 Login,Ingresar
 Login/Registration Before,Ingresar/Registrarse antes
 Manage Terms and Conditions,Gestionar terminos y condiciones
-Maximum Display Recently Added Item(s),Cantidad máxima mostrada de artículos recientemente añadidos. 
+Maximum Display Recently Added Item(s),Cantidad máxima mostrada de artículos recientemente añadidos.
 Maximum qty allowed for Shipping to multiple addresses is %s,La cantidad máxima permitida para envíos a multiples direcciones es %s
 Mini-cart promotion block,Bloque de promoción de mini-carrito
 Minimum order amount is %s,El monto mínimo del pedido es %s
@@ -181,7 +182,7 @@ Multishipping Checkout Shipping Address Creation,Crear dirección para envío mu
 Multishipping Checkout Shipping Address Edit Form,Formulario de edición de dirección de envío multiple de compra
 Multishipping Checkout Shipping Address Selection,Elegir dirección de envío multiple de compra
 Multishipping Checkout Shipping Information Step,Información de paso de envío multiple de compra
-Multishipping Checkout Success,Envío multiple de compra exitoso. 
+Multishipping Checkout Success,Envío multiple de compra exitoso.
 My Cart,Mi carrito
 My Cart (%s item),Mi carrito (%s artículo)
 My Cart (%s items),Mi carrito (%s artículos)
@@ -204,8 +205,8 @@ Order place error.,Error al hacer pedido.
 Other Items in Your Order,Otros artículos en tu pedido
 Overview Items After,Revisión de artículos
 Password,Contraseña
-Payment Failed Email Reciever,Correo electrónico receptor de error de pago 
-Payment Failed Email Sender,Correo electrónico remitente de error de pago 
+Payment Failed Email Reciever,Correo electrónico receptor de error de pago
+Payment Failed Email Sender,Correo electrónico remitente de error de pago
 Payment Failed Emails,Emails de error de pago
 Payment Failed Template,Plantilla de error de pago
 Payment Information,Información de pago
@@ -234,7 +235,7 @@ Please select valid payment method.,Por favor selecciona un método de pago vali
 Please specify payment method.,Por favor especifíca método de pago.
 Please specify shipping method.,Por favor especifíca métodos de envío.
 Please specify shipping methods for all addresses.,Por favor especifíca métodos de envío para todas las direcciones.
-Price,Precio  
+Price,Precio 
 Proceed to Checkout,Proceder a comprar
 Product,Productos
 Product Name,Nombre de productos
@@ -250,7 +251,7 @@ Recently added item(s),Artículos recientemente añadidos.
 Register,Registrarse
 Register and save time!,Registrate y ahorra tiempo!
 Register to Create an Account,Registrate para crear una cuenta
-Register with us for future convenience:,Registrate para mayor comodidad en futuras operaciones: 
+Register with us for future convenience:,Registrate para mayor comodidad en futuras operaciones:
 Remove Item,Descartar artículo
 Remove This Item,Descartar este artículo
 Remove coupon code from shopping cart,Eliminar cupón del carrito de compras
@@ -271,7 +272,7 @@ Select Addresses,Elegir direcciones
 Select Shipping Method,Elegir método de envío
 Select State/Province...,Elegir Estado/Provincia
 Select a billing address from your address book or enter a new address.,Elege una dirección de cobranza de tu libreta de direcciones o ingresa una nueva.
-Select a shipping address from your address book or enter a new address.,Elige una dirección de envío de tu libreta de direcciones o ingresa una nueva dirección. 
+Select a shipping address from your address book or enter a new address.,Elige una dirección de envío de tu libreta de direcciones o ingresa una nueva dirección.
 Send Payment Failed Email Copy Method,Envíar una copia del correo de método del pago fallido
 Send Payment Failed Email Copy To,Envíar una copia del correo del pago fallido a
 Send To,Enviar a
@@ -320,11 +321,11 @@ Terms and Conditions Information,Información de terminos y condiciones
 Terms and conditions,Términos y condiciones
 Text,Texto
 Thank you for your purchase!,¡Gracias por tu compra!
-The condition has been deleted,La condición ha sido borrada. 
+The condition has been deleted,La condición ha sido borrada.
 The condition has been saved.,La condición ha sido guardada.
 The onepage checkout is disabled.,El proceso de compra en una página ha sido deshabilitado
 The product could not be found.,El producto no pudo ser encontrado.
-The product does not exist.,El producto ya no existe. 
+The product does not exist.,El producto ya no existe.
 "There are <a href=""%s"">%s items</a> in your cart.","Hay <a href=""%s"">%s artículos</a> en tu carrito."
 "There is <a href=""%s"">1 item</a> in your cart.","Hay <a href=""%s"">1 artículo</a>  en tu carrito."
 There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.,Ya hay un usuario registrado con esta dirección de correo electrónico. Por favor ingresa usando esta dirección de correo electrónico o ingresa un correo diferente para registrar tu cuenta.
@@ -354,7 +355,7 @@ Your billing agreement # is: %s.,Tu acuerdo de cobranza # es: %s.
 Your order # is: %s.,Tu pedido es: %s.
 Your order cannot be completed at this time as there is no payment methods available for it.,Tu pedido no puede ser completado en este momento debido a que no hay metodos de pago disponibles.
 Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.,Tu pedido no puede ser completada en este momenteo debido a que no hay métodos de envío disponible. Por favor haz los cambios necesarios en tu dirección de envío.
-Your order has been received.,Tu orden ha sido recibida. 
+Your order has been received.,Tu orden ha sido recibida.
 Your order number is ,Tu numero de pedido es
 Your recurring payment profiles:,Tus perfiles de pago recurrentes:
 Zip,C.P.
