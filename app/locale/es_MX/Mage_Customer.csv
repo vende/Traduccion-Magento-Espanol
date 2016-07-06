@@ -1,5 +1,5 @@
 %value%' appears to be a DNS hostname but cannot extract TLD part,"%value%' parece ser un nombre de host DNS, pero no se puede extraer la parte TLD "
-%value%' appears to be a DNS hostname but cannot match TLD against known list,%value%' parece ser un nombre de host DNS pero no coincide con la lista TLD conocida 
+%value%' appears to be a DNS hostname but cannot match TLD against known list,%value%' parece ser un nombre de host DNS pero no coincide con la lista TLD conocida
 %value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%',%value%' parece ser un nombre de host DNS pero no coincide con el esquema de nombre de host para TLD '%tld%'
 %value%' appears to be a DNS hostname but contains a dash in an invalid position,"%value%' parece ser un nombre de host DNS, pero contiene un guión en una posición inválida"
 %value%' appears to be a DNS hostname but the given punycode notation cannot be decoded,"%value%' parece ser un nombre de host DNS, pero la notación punycode proporcionada no puede ser decodificada"
@@ -56,7 +56,7 @@ Cannot save a new password.,No se puede guardar una nueva contraseña.
 Cannot save address.,No se puede guardar la dirección.
 Cannot save the customer.,No se puede guardar el cliente.
 Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.,Las cuentas de clientes no se pueden compartir de manera global debido a que algunas están registradas con el mismo correo electrónico en varios sitios web y no se pueden combinar.
-Change Account Password,Cambiar Contraseña de Cuenta 
+Change Account Password,Cambiar Contraseña de Cuenta
 Change Billing Address,Cambiar dirección de cobranza.
 Change Password,Cambiar la contraseña
 Change Shipping Address,Cambiar la dirección de envío
@@ -71,8 +71,8 @@ Confirmed,Confirmado
 Contact Information,Información de contacto
 Continue Shopping,Seguir comprando
 Country,País
-Create,Crear 
-Create New Account Options,Opciones para Crear una Nueva Cuenta 
+Create,Crear
+Create New Account Options,Opciones para Crear una Nueva Cuenta
 Create New Customer Account,Crear una nueva cuenta de cliente
 Create Order,Crear Pedido
 Create Account,Creear Cuenta
@@ -83,9 +83,9 @@ Current Admin Password,Contraseña Actual de Administración
 Current Password,Contraseña Actual
 Customer,Cliente
 Customer API,API de Cliente
-Customer Account Edit Form,Formulario para Editar Cuenta de Cliente 
+Customer Account Edit Form,Formulario para Editar Cuenta de Cliente
 Customer Account Login Form,Formulario de Inicio de Sesión con Cuenta de Cliente
-Customer Account Logout Success,La cuenta del cliente cerró su sesión de manera correcta. 
+Customer Account Logout Success,La cuenta del cliente cerró su sesión de manera correcta.
 Customer Account Registration Form,Formulario de Registro para Cuenta de Cliente
 Customer Addresses,Direcciones de los clientes
 Customer Configuration,Configuración de cliente
@@ -100,7 +100,7 @@ Customer My Account Address Edit Form,"Formulario de Edición de Direcciones en 
 Customer My Account Dashboard,Panel de Administración para Mi cuenta de cliente
 Customer Since,Cliete desde
 Customer View,Vista de Cliente
-Customer collection expected.,Se espera grupo de cliente. 
+Customer collection expected.,Se espera grupo de cliente.
 Customer email is required,Es necesario el correo electrónico del cliente
 Customer website ID must be specified when using the website scope,El ID de la página web del cliente debe especificarse cuando se usa el alcance de página web
 "Customer will stay on the current page if ""No"" is selected.","Los clientes van permanecer en la página actual si seleccionaste ""NO""."
@@ -118,7 +118,7 @@ Default Billing Address,Direccion de cobranza predeterminada.
 Default Email Domain,Dominio predeterminado de correo electrónico.
 Default Group,Grupo predeterminado.
 Default Shipping Address,Dirección de entrega predeterminada
-Default Value for Disable Automatic Group Changes Based on VAT ID,Valor predeterminado para deshabilitar automáticamente cambios en grupos basado en ID VAT 
+Default Value for Disable Automatic Group Changes Based on VAT ID,Valor predeterminado para deshabilitar automáticamente cambios en grupos basado en ID VAT
 Default Welcome Email,Correo Electrónico de bienvenido predeterminado.
 Delete,Borrar
 Delete Address,Borrar Dirección
@@ -148,8 +148,8 @@ Entity collection is expected.,Se espera el conjunto de entidades.
 Excel XML,Excel XML
 Failed to confirm customer account.,No se ha podido confirmar la cuenta de cliente.
 Fax,Fax
-First Name,Primer Nombre
-Middle Name/Initial, Segundo Nombre/Inicial
+First Name,Nombre
+Middle Name/Initial, Segundo Nombre
 Forgot Email Template,Plantilla de olvido de contraseña
 Forgot Password,Olvido de contraseña
 Forgot Your Password,Olvidaste tu contraseña
@@ -183,7 +183,7 @@ Invalid customer data,Los datos del cliente no son válidos
 "Invalid email address ""%s"".","Dirección de correo electrónico no válida: ""%s""."
 Invalid email address.,La dirección de correo electrónico no es válida.
 Invalid login or password.,Contraseña o usuario inválido.
-Invalid password reset token.,Token de restablecimiento de contraseña inválido 
+Invalid password reset token.,Token de restablecimiento de contraseña inválido
 Invalid shipping address for (%s),Dirección de envío no válida para (%s)
 "Invalid store specified, skipping the record.","La tienda especificada es inválida, registro omitido."
 "Invalid website, skipping the record, line: %s","La página web no es válida, registro omitido en la línea: %s"
@@ -219,7 +219,7 @@ My Account Wrapper,Contenedor de Mi Cuenta
 My Dashboard,Resumen Mi Cuenta
 My Orders,Mis Pedidos
 Name,Nombre
-Name and Address Options,Opciones de nombre y dirección 
+Name and Address Options,Opciones de nombre y dirección
 Never,Nunca
 New Address,Nueva dirección
 New Address Entry,Nueva ingreso de dirección
@@ -235,7 +235,7 @@ New account confirmation key,Nueva clave de confirmación de cuenta
 New account confirmed,Nueva cuenta confirmada
 New password field cannot be empty.,El nuevo campo de contraseña no puede estar vacío.
 Newsletter,Boletín
-Newsletter Finish,Finalizar Boletín 
+Newsletter Finish,Finalizar Boletín
 Newsletter Information,Información de Boletín
 Newsletter Received,Boletín Recibido
 Newsletter Start,Inicio de Boletín 
@@ -248,14 +248,14 @@ No item specified.,Ningún elemento especificado.
 Not Sent,No enviado
 "Not confirmed, can login","No confirmado, puedes iniciar sesión"
 "Not confirmed, cannot login","No confirmado, no puedes iniciar sesión"
-Number of Lines in a Street Address ,Número de líneas en una calle 
+Number of Lines in a Street Address ,Número de líneas en una calle
 Offline,Desconectado
 Online,En línea
 Online Customers,Clientes en línea
 Online Customers Options,Opciones de los clientes en línea
 Online Minutes Interval,Intervalo de minutos en línea
 Order #,Pedido #
-Order Total,Pedido Total 
+Order Total,Pedido Total
 Orders,Pedidos
 PDF,PDF
 Password,Contraseña
@@ -289,7 +289,7 @@ Please select a website which contains store view,"Por favor, elige una página 
 Prefix Dropdown Options,Prefijo de opciones desplegables
 Price,Precio
 Product,Producto
-Product ID,ID de Product 
+Product ID,ID de Product
 Product Name,Nombre de producto
 Product Reviews,Opiniones del producto
 Product Tags,Etiquetas del producto
@@ -299,7 +299,7 @@ Qty,Cant
 Recent Orders,Órdenes recientes
 Records for %s store found.,Se encontraron registros de %s almacén(es) .
 Recovery Link Expiration Period (days),Período de Vencimiento de Enlace de Recuperación (días)
-Redirect Customer to Account Dashboard after Logging in,Después de iniciar sesión redirigir al cliente al panel de administración de su cuenta 
+Redirect Customer to Account Dashboard after Logging in,Después de iniciar sesión redirigir al cliente al panel de administración de su cuenta
 Refunded,Reintegrado
 Register,Registro
 Registered Customers,Clientes Registrados
@@ -398,12 +398,12 @@ The password must have at least 6 characters. Leading or trailing spaces will be
 "The suffix that goes after name (Jr., Sr., etc.)",El sufijo que va después del nombre
 "The title that goes before name (Mr., Mrs., etc.)","El título que va antes del nombre (Sr., Sra., Etc.)"
 There are no items in customer's wishlist at the moment,No hay artículos en la lista de deseos del cliente en este momento
-There are no items in customer\'s shopping cart at the moment,Por el momento no hay artículos en el carrito del cliente 
+There are no items in customer\'s shopping cart at the moment,Por el momento no hay artículos en el carrito del cliente
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","Ya existe una cuenta con esta dirección de correo electrónico. Si estás seguro que es tu dirección de correo electrónico, haz  <a href=""%s""> clic aquí </a> para recuperar tu contraseña y acceder a tu cuenta."
 There was an error validating the VAT ID.,Hubo un error al validar el RFC.
 There was an error validating the VAT ID. The customer would belong to Customer Group %s.,Hubo un error al validar el RFC. El cliente pertenecería al grupo de Clientes %s.
 This account is not confirmed.,Esta cuenta no está confirmada.
-This customer email already exists,Este correo electrónico del cliente ya existe 
+This customer email already exists,Este correo electrónico del cliente ya existe
 This customer has no saved addresses.,Este cliente no ha guardado direcciones.
 This email does not require confirmation.,Este correo electrónico no requiere confirmación.
 "This email will be sent instead of default welcome email, after account confirmation.","Este correo electrónico será enviado en lugar del correo de bienvenida predeterminado, después de la confirmación de cuenta."
@@ -423,7 +423,7 @@ Use as My Default Shipping Address,Utilizar como mi dirección de envío predete
 Use as my default billing address,Utilizar como mi dirección de cobranza predeterminada
 Use as my default shipping address,Utilizar como mi dirección de envío predeterminada
 VAT Number,RFC
-VAT Request Date,Fecha de solicitud de IVA 
+VAT Request Date,Fecha de solicitud de IVA
 VAT Request Identifier,Solicitud identificador de IVA
 Validate VAT Number,Validar RFC
 Validate on Each Transaction,Validar en cada transacción
